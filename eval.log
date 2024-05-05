@@ -1,0 +1,40 @@
+Running the following version of UD tools:
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun May 5 09:21:16 2024 +0200
+Evaluating the following revision of UD_Hausa-SouthernAutogramm:
+commit 99bfbcdcea575bf9d5c8ec3ac5fe7e7d22648a65
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun May 5 10:37:07 2024 +0200
+Size: counted 14585 of 14585 words (nodes).
+Size: min(0, log((N/1000)**2)) = 5.35998720663937.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: '_' is the most frequent lemma.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 5199 out of 14585 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 32 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL       2282
+Udapi: found 2282 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 14585 words.
+Genres: found 1 out of 17 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang ha --max-err=10 UD_Hausa-SouthernAutogramm/ha_southernautogramm-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
+(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
+(weight=0.256410256410256) * (score{size}=0.387968811152584) = 0.0994791823468164
+(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
+(weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
+(TOTAL score=0.30267391554155) * (availability=1) * (validity=1) = 0.30267391554155
+STARS = 1.5
+UD_Hausa-SouthernAutogramm	0.30267391554155	1.5

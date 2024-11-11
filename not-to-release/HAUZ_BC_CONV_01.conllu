@@ -2,7 +2,7 @@
 # sent_id = HAUZ_BC_CONV_01_SP1_00-002
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
-# sent_timecode =  627, 1760
+# sent_timecode = 627, 1760
 # phonetic_text = Bashìr̃ < kai  mazàunin ìnaː nèː ?//
 # text = Bashìr̃ < kai mazàunin ìnaː nèː ?//
 # text_en = Bashir, where do you live?
@@ -40,7 +40,7 @@
 # sent_id = HAUZ_BC_CONV_01_SP1_003-003
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
-# sent_timecode =  4935, 5485
+# sent_timecode = 4935, 5485
 # phonetic_text = mèː suːnaː ?//
 # text = mèː suːnaː ?//
 # text_en = What's her name?
@@ -54,7 +54,7 @@
 # sent_timecode = 5485, 9267
 # phonetic_text = suːnaː -n -tà / r̃aːbi // wandà akà fi kiràː -n -tà dà / mài ƙoːsai //
 # text = suːnan =tà R̃aːbi > wandà akà fi kiràn =tà dà Mài Ƙoːsai //
-# text_en =  Her name is .. Rabi who is more often called .. the doughnut seller.
+# text_en = Her name is .. Rabi who is more often called .. the doughnut seller.
 1	suːnan	suːnaː	NOUN	_	Definite=Cons	3	nsubj	_	AlignBegin=5485|AlignEnd=5558|Gloss=name.Cons
 2	=tà	=ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	1	nmod	_	AlignBegin=5631|AlignEnd=5704|Gloss=3Fem
 3	R̃aːbi	R̃aːbi	PROPN	_	_	0	root	_	AlignBegin=6067|AlignEnd=6358|Gloss=Rabi
@@ -97,7 +97,7 @@
 # sent_timecode = 11097, 13733
 # phonetic_text = eː tanàː zàune à / ùngwaː -n -ːːː / fulàːniː nèː /  fallàːdân //
 # text = eː tanàː zàune à Ùngwan Fulàːniː nèː |a Pallàːdân //
-# text_en =  Yes, she is in.. the quarter of the Fulanis. In Palladan.
+# text_en = Yes, she is in.. the quarter of the Fulanis. In Palladan.
 1	eː	eː	INTJ	_	_	3	discourse	_	AlignBegin=11097|AlignEnd=11317|Gloss=yes
 2	tanàː	_	AUX	nàː	Aspect=Prog|Gender=Fem|Person=3	3	cop	_	AlignBegin=11317|AlignEnd=11537|Gloss=3Fem.Ident/loc
 3	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	0	root	_	AlignBegin=11537|AlignEnd=11757|Gloss=stay.Stat
@@ -139,7 +139,7 @@
 # sent_timecode = 15967, 17392
 # phonetic_text = naː daɗèː à wuriː -n -tà dan /
 # text = naː daɗèː à wurin =tà dan &//
-# text_en =  I stayed long because..
+# text_en = I stayed long because..
 1	naː	_	AUX	sun	Aspect=Perf|Number=Sing|Person=1	2	aux	_	AlignBegin=15967|AlignEnd=16205|Gloss=1Sing.Perf|Scrap=Yes
 2	daɗèː	daɗ-	VERB	_	_	0	root	_	AlignBegin=16205|AlignEnd=16443|Gloss=spend_time
 3	à	à	ADP	_	_	2	dep	_	AlignBegin=16443|AlignEnd=16681|Gloss=at
@@ -154,7 +154,7 @@
 # sent_timecode = 17392, 19044
 # phonetic_text = inàː tùnàːniː -n mun ɗàukaː -i kàman shèːkaràː -u &//
 # text = inàː tùnàːnin mun ɗàuki kàman shèːkàruː &//
-# text_en =  I think we did like ..
+# text_en = I think we did like ..
 1	inàː	_	AUX	nàː	Aspect=Prog|Number=Sing|Person=1	2	aux	_	AlignBegin=17392|AlignEnd=17628|Gloss=1Sing.Prog|Scrap=Yes
 2	tùnàːnin	tùnàːniː	NOUN	_	Definite=Cons	0	root	_	AlignBegin=17628|AlignEnd=17746|Gloss=thinking.Cons
 3	mun	_	AUX	sun	Aspect=Perf|Number=Plur|Person=1	4	aux	_	AlignBegin=17864|AlignEnd=18100|Gloss=1Plur.Perf
@@ -209,7 +209,7 @@
 # sent_timecode = 24745, 25787
 # phonetic_text = âː / mun zaunàː dà ita //
 # text = âː < mun zaunàː dà ita &//
-# text_en =  Ah.. I stayed with her.
+# text_en = Ah.. I stayed with her.
 1	âː	âː	INTJ	_	_	4	discourse	_	AlignBegin=24745|AlignEnd=24894|Gloss=FILL
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=24894|AlignEnd=25043|Gloss=PUNCT
 3	mun	_	AUX	sun	Aspect=Perf|Number=Plur|Person=1	4	aux	_	AlignBegin=25043|AlignEnd=25192|Gloss=1Plur.Perf|Scrap=Yes
@@ -239,7 +239,7 @@
 # sent_timecode = 28840, 31235
 # phonetic_text = kàːkaː -naː ( mèː sukèː &//) wandà akèː kiràː -n -tà dà r̃aːbi //
 # text = kàːkaː =naː ( mèː sukèː &//) wandà akèː kiràn =tà dà R̃aːbi //
-# text_en =  My grandmother (what did they...) whom they called Rabi.
+# text_en = My grandmother (what did they...) whom they called Rabi.
 1	kàːkaː	kàːkaː	NOUN	_	_	0	root	_	AlignBegin=28840|AlignEnd=28949|Gloss=grandmother
 2	=naː	=naː	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nmod	_	AlignBegin=28949|AlignEnd=29058|Gloss=1Sing.Gen
 3	(	(	PUNCT	_	_	4	punct	_	AlignBegin=29058|AlignEnd=29276|Gloss=PUNCT
@@ -260,7 +260,7 @@
 # sent_timecode = 31235, 33908
 # phonetic_text = àmmaː / an / mùtûm -a_e sun fi kiràː -n -tà dà mài ƙoːsai //
 # text = àmmaː < an || mutàːneː sun fi kiràn =tà dà Mài Ƙoːsai //
-# text_en =  But, b.. people preferred to call her the doughnut seller.
+# text_en = But, b.. people preferred to call her the doughnut seller.
 1	àmmaː	àmmaː	CCONJ	_	_	3	discourse	_	AlignBegin=31235|AlignEnd=31458|Gloss=but
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=31458|AlignEnd=31681|Gloss=PUNCT
 3	an	_	AUX	sun	Aspect=Perf|Person=4	7	reparandum	_	AlignBegin=31681|AlignEnd=31793|Gloss=4.Perf
@@ -281,7 +281,7 @@
 # sent_timecode = 34469, 38779
 # phonetic_text = dàliːlìː -n dà ya sâː ta saːmù -i wânnan suːnaː mài ƙoːsai / tanàː saidàː ƙoːsai //
 # text = dàliːlìn dà ya sâː ta sàːmi wânnan suːnaː Mài Ƙoːsai < tanàː saidà ƙoːsai //
-# text_en =  The reason why she got that name ""doughnut seller"", is because she is selling doughnuts.
+# text_en = The reason why she got that name ""doughnut seller"", is because she is selling doughnuts.
 1	dàliːlìn	dàliːlìː	NOUN	_	Definite=Cons	13	dislocated	_	AlignBegin=34469|AlignEnd=34613|Gloss=cause.Cons
 2	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=34756|AlignEnd=35043|Gloss=COMP
 3	ya	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Masc|Person=3	4	aux	_	AlignBegin=35043|AlignEnd=35330|Background=Yes|Gloss=3Masc.Perf.Bkg
@@ -320,7 +320,7 @@
 # sent_timecode = 40715, 43735
 # phonetic_text = eː ìdan ta yi shi / à nan ùngwanfìlàːni takàn ɗaukàː nèː tà rabàː mà makar̃antaː -uː /
 # text = eː !//
-# text_en =  Yes.
+# text_en = Yes.
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=40715|AlignEnd=40893|Gloss=yes
 2	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=40715|AlignEnd=40893|Gloss=PUNCT
 
@@ -355,7 +355,7 @@
 # sent_timecode = 44009, 46566
 # phonetic_text = takàn kai -ːːː / àːːː / cikin -ːːː / < feːdar̃al > /
 # text = takàn kai à cikin Feːdar̃al //
-# text_en =  She goes to the Federal (College).
+# text_en = She goes to the Federal (College).
 1	takàn	_	AUX	kàn	Aspect=Hab|Gender=Fem|Person=3	2	aux	_	AlignBegin=44009|AlignEnd=44241|Gloss=3Fem.Hab
 2	kai	kai	VERB	_	_	0	root	_	AlignBegin=44241|AlignEnd=44357|Gloss=reach
 3	à	à	ADP	_	_	5	case	_	AlignBegin=44705|AlignEnd=44821|Gloss=at
@@ -409,7 +409,7 @@
 # sent_timecode = 50854, 51042
 # phonetic_text = eː //
 # text = eː //
-# text_en =  Yes.
+# text_en = Yes.
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=50854|AlignEnd=50948|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=50948|AlignEnd=51042|Gloss=PUNCT
 
@@ -419,7 +419,7 @@
 # sent_timecode = 51042, 52111
 # phonetic_text = mukàn zaunàː tàːre dà ita //
 # text = mukàn zaunàː tàːre dà ita //
-# text_en =  We stay together.
+# text_en = We stay together.
 1	mukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=1	2	aux	_	AlignBegin=51042|AlignEnd=51220|Gloss=1Plur.Hab
 2	zaunàː	zaun-	VERB	_	_	0	root	_	AlignBegin=51220|AlignEnd=51398|Gloss=stay
 3	tàːre	tàːre	ADV	_	_	2	advmod	_	AlignBegin=51398|AlignEnd=51576|Gloss=together
@@ -459,7 +459,7 @@
 # sent_timecode = 53361, 56827
 # phonetic_text = naː sanìː wasu àbù \Plur naːtà sòːsai kùwa // don tanàː bâː nì làːbaːrìː //
 # text = naː san wasu abuːbuwàː naːtà sòːsai kùwa don tanàː baː nì làːbaːrìː //
-# text_en =  I know a few things about her very well indeed because she tells me stories.
+# text_en = I know a few things about her very well indeed because she tells me stories.
 1	naː	_	AUX	sun	Aspect=Perf|Number=Sing|Person=1	2	aux	_	AlignBegin=53361|AlignEnd=53609|Gloss=1Sing.Perf
 2	san	sanìː	VERB	_	_	0	root	_	AlignBegin=53609|AlignEnd=53857|Gloss=know
 3	wasu	wasu	DET	_	Definite=Spec|Number=Plur|PronType=Ind	4	det	_	AlignBegin=53857|AlignEnd=54105|Gloss=some.Plur
@@ -480,7 +480,7 @@
 # sent_timecode = 56827, 59656
 # phonetic_text = farkoː mukàn / iyàː zaunàː dà ita /
 # text = farkoː mukàn iyà zaunàː dà ita //
-# text_en =  First I would sit with her.
+# text_en = First I would sit with her.
 1	farkoː	farkoː	NOUN	_	_	3	obl	_	AlignBegin=56827|AlignEnd=57181|Gloss=beginning
 2	mukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=1	3	aux	_	AlignBegin=57181|AlignEnd=57535|Gloss=1Plur.Hab
 3	iyà	iyàː	VERB	_	_	0	root	_	AlignBegin=57889|AlignEnd=58243|Gloss=can
@@ -495,7 +495,7 @@
 # sent_timecode = 59656, 64345
 # phonetic_text = takàn / bâː nì làːbaːrìː hakà // na har̃kàː -oCi na yâu dà kullum / wandà sukà fàːru dà ita / dà wandà sukà fàːru dà wani //
 # text = takàn baː nì làːbaːrìː hakà na har̃koːkiː na yâu dà kullum wandà sukà fàːru dà ita dà wandà sukà fàːru dà wani //
-# text_en =  She would tell me stories of things of the past that happened to her and that happened to others.
+# text_en = She would tell me stories of things of the past that happened to her and that happened to others.
 1	takàn	_	AUX	kàn	Aspect=Hab|Gender=Fem|Person=3	2	aux	_	AlignBegin=59656|AlignEnd=59830|Gloss=3Fem.Hab
 2	baː	baː	VERB	_	_	0	root	_	AlignBegin=60004|AlignEnd=60178|Gloss=give|wordform=bâː
 3	nì	ni	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	AlignBegin=60178|AlignEnd=60352|Gloss=1Sing
@@ -526,7 +526,7 @@
 # sent_timecode = 64709, 67830
 # phonetic_text = kàːfin hakà / baːyan ìdan ta jeː saidàː ƙoːsai -ǹ / ta daːwoː /
 # text = kàːfin hakà < baːyan ìdan ta jeː saidà ƙoːsân < ta daːwoː //
-# text_en =  Before then, after she had gone to sell doughnuts she was back.
+# text_en = Before then, after she had gone to sell doughnuts she was back.
 1	kàːfin	kàːfin	ADP	_	_	2	case	_	AlignBegin=64709|AlignEnd=64949|Gloss=before
 2	hakà	hakà	ADV	_	_	12	advmod	_	AlignBegin=64949|AlignEnd=65189|Gloss=like_this
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=65189|AlignEnd=65429|Gloss=PUNCT
@@ -547,7 +547,7 @@
 # sent_timecode = 68274, 72399
 # phonetic_text = takàn / zoː / eːàːːː / mù shiryàː / sai mù tàfi daːjì //
 # text = takàn zoː |c eːàː mù shiryàː |c sai mù tàfi daːjì //
-# text_en =  she would arrive er.. we would get ready we would go to the bush.
+# text_en = she would arrive er.. we would get ready we would go to the bush.
 1	takàn	_	AUX	kàn	Aspect=Hab|Gender=Fem|Person=3	2	aux	_	AlignBegin=68274|AlignEnd=68569|Gloss=3Fem.Hab
 2	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=68864|AlignEnd=69159|Gloss=come
 3	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=69159|AlignEnd=69454|Gloss=PUNCT
@@ -567,7 +567,7 @@
 # sent_timecode = 72771, 73391
 # phonetic_text = à daːjì nan mukàn jeː yi -n itàːceː /
 # text = à daːjì nan mukàn jeː yîn itàːceː //
-# text_en =  In the bush we would fetch some wood.
+# text_en = In the bush we would fetch some wood.
 1	à	à	ADP	_	_	2	case	_	AlignBegin=72771|AlignEnd=72849|Gloss=at
 2	daːjì	daːjìː	ADV	_	_	5	advmod	_	AlignBegin=72849|AlignEnd=72927|Gloss=in_the_bush
 3	nan	nan	ADV	_	Definite=Def	2	appos	_	AlignBegin=72927|AlignEnd=73005|Gloss=Def
@@ -583,7 +583,7 @@
 # sent_timecode = 75021, 76777
 # phonetic_text = baːyan mun yiwoː itàːceː -ǹ nan mun daːwoː /
 # text = baːyan mun yiwoː itàːcên nan mun daːwoː //
-# text_en =  When we had fetched the wood we would come back.
+# text_en = When we had fetched the wood we would come back.
 1	baːyan	baːyan	ADP	_	_	3	mark	_	AlignBegin=75021|AlignEnd=75241|Gloss=after
 2	mun	_	AUX	sun	Aspect=Perf|Number=Plur|Person=1	3	aux	_	AlignBegin=75241|AlignEnd=75461|Gloss=1Plur.Perf
 3	yiwoː	yi	VERB	_	_	7	advcl	_	AlignBegin=75461|AlignEnd=75681|Gloss=do.DIR
@@ -618,7 +618,7 @@
 # sent_timecode = 80499, 86236
 # phonetic_text = akàn / tsinkoː dìnkin / ramàː / dà / sauraː -n / kaːyaː \Plur dai na ganyeː hakà /
 # text = akàn tsinkoː dìnkin ramàː dà sauran kaːyàyyakiː dai na ganyeː hakà //
-# text_en =  we would collect leaves, hemp and all sorts of things and leaves like this.
+# text_en = we would collect leaves, hemp and all sorts of things and leaves like this.
 1	akàn	_	AUX	kàn	Aspect=Hab|Person=4	2	aux	_	AlignBegin=80499|AlignEnd=80836|Gloss=4.Hab
 2	tsinkoː	tsink-	VERB	_	Definite=Cons	0	root	_	AlignBegin=81173|AlignEnd=81510|Gloss=pick.DIR
 3	dìnkin	dìnkiː	NOUN	_	Definite=Cons	2	obj	_	AlignBegin=81510|AlignEnd=81847|Gloss=edible_leaves.Cons
@@ -638,7 +638,7 @@
 # sent_timecode = 86549, 86944
 # phonetic_text = akàn yi &//
 # text = akàn yi &//
-# text_en =  we used to.
+# text_en = we used to.
 1	akàn	_	AUX	kàn	Aspect=Hab|Person=4	2	aux	_	AlignBegin=86549|AlignEnd=86681|Gloss=4.Hab|Scrap=Yes
 2	yi	yi	VERB	_	_	0	root	_	AlignBegin=86681|AlignEnd=86813|Gloss=do
 3	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=86813|AlignEnd=86944|Gloss=PUNCT
@@ -674,7 +674,7 @@
 # sent_timecode = 89355, 91124
 # phonetic_text = yâwwaː / àlhamdù lìllaːhì // akàn dafàː nèː //
 # text = yâwwaː < àlhamdù lìllaːhì < akàn dafàː nèː //
-# text_en =  Yes, God be praised We would cook them.
+# text_en = Yes, God be praised We would cook them.
 1	yâwwaː	yâwwaː	INTJ	_	_	7	discourse	_	AlignBegin=89355|AlignEnd=89557|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=89557|AlignEnd=89759|Gloss=PUNCT
 3	àlhamdù	àlhamdù	X	_	Foreign=Yes	7	discourse	_	AlignBegin=89759|AlignEnd=89961|Gloss=alhamdu|Lang=ar
@@ -691,7 +691,7 @@
 # sent_timecode = 91596, 94884
 # phonetic_text = ìdan an dafàː / mukàn ɗaukàː / sai mù jeː mù kai shi kàːsuwaː //
 # text = ìdan an dafàː |c mukàn ɗaukàː < sai mù jeː mù kai shì kàːsuwaː //
-# text_en =  When we had cooked them, we took them then we carried them to the market.
+# text_en = When we had cooked them, we took them then we carried them to the market.
 1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=91596|AlignEnd=91815|Gloss=if
 2	an	_	AUX	sun	Aspect=Perf|Person=4	3	aux	_	AlignBegin=91815|AlignEnd=92034|Gloss=4.Perf
 3	dafàː	dafàː	VERB	_	_	10	advcl	_	AlignBegin=92034|AlignEnd=92253|Gloss=cook
@@ -714,7 +714,7 @@
 # sent_timecode = 95002, 95978
 # phonetic_text = shiː maː mù jeː mù sayar̃ //
 # text = shiː maː mù jeː mù sayar̃ //
-# text_en =  And then we sold them.
+# text_en = And then we sold them.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	obl	_	AlignBegin=95002|AlignEnd=95141|Gloss=3Masc.Nom
 2	maː	maː	PART	_	_	1	discourse	_	AlignBegin=95141|AlignEnd=95280|Gloss=even
 3	mù	_	AUX	sù	Aspect=Aor|Number=Plur|Person=1	4	aux	_	AlignBegin=95280|AlignEnd=95419|Gloss=1Plur.Aor
@@ -729,7 +729,7 @@
 # sent_timecode = 96451, 101101
 # phonetic_text = < sòː > / in mukàn taːshì / mukàn jeː / mù yi / itàːceː hakà / dà ita / àbù -ǹ nan //
 # text = sòː < in mukàn taːshì < mukàn jeː |c mù yi itàːceː hakà dà ita |c àbîn nan //
-# text_en =  <So> when we left we would go and collect some wood with her etc.
+# text_en = <So> when we left we would go and collect some wood with her etc.
 1	sòː	sòː	PART	_	Foreign=Yes	8	discourse	_	AlignBegin=96653|AlignEnd=96855|Gloss=so|Lang=en
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=97057|AlignEnd=97259|Gloss=PUNCT
 3	in	in	SCONJ	_	_	5	mark	_	AlignBegin=97259|AlignEnd=97461|Gloss=if
@@ -756,7 +756,7 @@
 # sent_timecode = 101101, 105479
 # phonetic_text = dan wani loːkàciː maː / ìdan zân iyàː tunàː -waː / à daːjìː -ǹ / àkwai wani / àbù -n tsòːroː dà mukà taɓàː ganiː //
 # text = dan wani loːkàciː maː < ìdan zân iyà tunàːwaː < à daːjìn < àkwai wani àbin tsòːroː dà mukà taɓàː ganiː //
-# text_en =  And once even I remember in the bush there is something terrible that we saw.
+# text_en = And once even I remember in the bush there is something terrible that we saw.
 1	dan	don	SCONJ	_	_	14	discourse	_	AlignBegin=101101|AlignEnd=101291|Gloss=because
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	det	_	AlignBegin=101291|AlignEnd=101481|Gloss=some.Masc
 3	loːkàciː	loːkàciː	NOUN	_	Definite=Cons	14	obl	_	AlignBegin=101481|AlignEnd=101671|Gloss=time
@@ -798,7 +798,7 @@
 # sent_timecode = 105840, 113933
 # phonetic_text = à nan daːjìː -ǹ &// yâwwaː / loːkàciː -ǹ / daːjìː -ǹ / shiː wânnan / àʔàːːː / indà mukèː zuwàː yi -n wânnan itàːceː / baːr̃ikìː nèː na soːjà //
 # text = à nan daːjìn < yâwwaː < loːkàcîn < daːjìn < shiː wânnan < àʔàː < indà mukèː zuwàː yîn wânnan itàːceː < baːr̃ikìː nèː na soːjà //
-# text_en =  There in the bush yes that time in the bush there er.. where we had gone to fetch some wood it was the soldiers' barracks.
+# text_en = There in the bush yes that time in the bush there er.. where we had gone to fetch some wood it was the soldiers' barracks.
 1	à	à	ADP	_	_	2	case	_	AlignBegin=105840|AlignEnd=106140|Gloss=at
 2	nan	nan	ADV	_	Definite=Def	24	advmod	_	AlignBegin=106140|AlignEnd=106440|Gloss=Def
 3	daːjìn	daːjìː	NOUN	_	Definite=Def	24	dislocated	_	AlignBegin=106440|AlignEnd=106590|Gloss=bush.Def
@@ -833,7 +833,7 @@
 # sent_timecode = 113933, 116922
 # phonetic_text = kàːfin soːjà -oCi / zuwàː -n soːjà -oCi // dan wajeː -ǹ / daːjìː nèː sòːsai //
 # text = kàːfin soːjoːjiː || zuwàn soːjoːjiː < dan wajên daːjìː nèː sòːsai //
-# text_en =  Before the soldiers, the soldiers' arrival, because the place was a real bush.
+# text_en = Before the soldiers, the soldiers' arrival, because the place was a real bush.
 1	kàːfin	kàːfin	ADP	_	_	4	case	_	AlignBegin=113933|AlignEnd=114163|Gloss=before
 2	soːjoːjiː	soːjà	NOUN	_	Number=Plur	4	reparandum	_	AlignBegin=114163|AlignEnd=114278|Gloss=soldier.Plur
 3	||	||	PUNCT	_	_	2	punct	_	AlignBegin=114393|AlignEnd=114623|Gloss=PUNCT
@@ -853,7 +853,7 @@
 # sent_timecode = 117074, 118310
 # phonetic_text = loːkàciː -ǹ niː inàː ɗan ƙàramiː //
 # text = loːkàcîn niː inàː ɗan ƙàramiː //
-# text_en =  At that time I was small.
+# text_en = At that time I was small.
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	5	dislocated	_	AlignBegin=117074|AlignEnd=117177|Gloss=time.Def
 2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=117280|AlignEnd=117486|Gloss=1Sing.Nom
 3	inàː	_	AUX	nàː	Aspect=Prog|Number=Sing|Person=1	5	cop	_	AlignBegin=117486|AlignEnd=117692|Gloss=1Sing.Pred/Loc
@@ -883,7 +883,7 @@
 # sent_timecode = 118310, 122038
 # phonetic_text = tòː su soːjoːjiː / loːkàcin dà sukà zoː / mèː neː fàːru à wurîn ?//
 # text = tòː su soːjoːjiː < loːkàcin dà sukà zoː < mèːneː fàːru à wurîn ?//
-# text_en =  Well the soldiers, when they came what happened there?
+# text_en = Well the soldiers, when they came what happened there?
 1	tòː	tòː	INTJ	_	_	10	discourse	_	AlignBegin=119960|AlignEnd=120099|Gloss=well
 2	su	su	DET	_	Number=Plur	3	det	_	AlignBegin=120099|AlignEnd=120238|Gloss=Plur
 3	soːjoːjiː	soːjoːjiː	NOUN	_	_	10	dislocated	_	AlignBegin=120238|AlignEnd=120308|Gloss=soldier
@@ -905,7 +905,7 @@
 # sent_timecode = 122406, 125070
 # phonetic_text = loːkàciː -ǹ dà sukà zoː / dàliːlìː -n dà sukà zoː / sun ɗan yi mawo &//
 # text = loːkàcin dà sukà zoː < dàliːlìn dà sukà zoː < sun ɗan yi mawo //
-# text_en =  When they arrived the reason why they came (was because) they were a bit poor.
+# text_en = When they arrived the reason why they came (was because) they were a bit poor.
 1	loːkàcin	loːkàciː	NOUN	_	Definite=Cons	13	dislocated	_	AlignBegin=122406|AlignEnd=122495|Gloss=time.Cons
 2	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=122584|AlignEnd=122762|Gloss=COMP
 3	sukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=3	4	aux	_	AlignBegin=122762|AlignEnd=122940|Background=Yes|Gloss=3Plur.Perf.Bkg
@@ -928,7 +928,7 @@
 # sent_timecode = 125070, 127619
 # phonetic_text = loːkàciː -ǹ dà sukà zoː / hakà sun zoː hakà sunàː baːyar̃ dà mùtûm -a_e tsòːroː //
 # text = loːkàcin dà sukà zoː < hakà sun zoː hakà sunàː baːyar̃ dà mutàːneː tsòːroː //
-# text_en =  When they came they came like that, they were frightening people.
+# text_en = When they came they came like that, they were frightening people.
 1	loːkàcin	loːkàciː	NOUN	_	Definite=Cons	8	obl	_	AlignBegin=125070|AlignEnd=125155|Gloss=time.Cons
 2	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=125240|AlignEnd=125410|Gloss=COMP
 3	sukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=3	4	aux	_	AlignBegin=125410|AlignEnd=125580|Background=Yes|Gloss=3Plur.Perf.Bkg
@@ -951,7 +951,7 @@
 # sent_timecode = 127809, 128805
 # phonetic_text = dan muː / bàmù sanìː soːjà ba //
 # text = dan muː < bàmù san soːjà ba //
-# text_en =  Because we we were not used to soldiers.
+# text_en = Because we we were not used to soldiers.
 1	dan	don	SCONJ	_	_	5	discourse	_	AlignBegin=127809|AlignEnd=127933|Gloss=because
 2	muː	muː	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=127933|AlignEnd=128057|Gloss=1Plur.Nom
 3	<	/	PUNCT	_	_	2	punct	_	AlignBegin=128057|AlignEnd=128181|Gloss=PUNCT
@@ -967,7 +967,7 @@
 # sent_timecode = 129145, 131630
 # phonetic_text = ìdan mukà ganiː sù dà kàːkiː // sai munàː ƙòːƙariː -n mù gudù //
 # text = ìdan mukà gan sù dà kàːkiː < sai munàː ƙòːƙarin mù gudù //
-# text_en =  When we saw them with their uniforms. we tried to run away.
+# text_en = When we saw them with their uniforms. we tried to run away.
 1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=129145|AlignEnd=129336|Gloss=if
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=129336|AlignEnd=129527|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	gan	ganiː	VERB	_	_	10	advcl	_	AlignBegin=129527|AlignEnd=129718|Gloss=see
@@ -988,7 +988,7 @@
 # sent_timecode = 132159, 133071
 # phonetic_text = munàː jîː -n tsòːroː //
 # text = munàː jîn tsòːroː //
-# text_en =  we were afraid
+# text_en = we were afraid
 1	munàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=1	2	aux	_	AlignBegin=132159|AlignEnd=132387|Gloss=1Plur.Prog
 2	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	0	root	_	AlignBegin=132387|AlignEnd=132501|Gloss=hear.Vnoun.Cons
 3	tsòːroː	tsòːroː	NOUN	_	_	2	nmod	_	AlignBegin=132615|AlignEnd=132843|Gloss=fear
@@ -1000,7 +1000,7 @@
 # sent_timecode = 133071, 133920
 # phonetic_text = munàː ƙòːƙariː -n gudù -waː //
 # text = munàː ƙòːƙarin gudùwaː //
-# text_en =  we tried to run away.
+# text_en = we tried to run away.
 1	munàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=1	2	aux	_	AlignBegin=133071|AlignEnd=133283|Gloss=1Plur.Prog
 2	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons	0	root	_	AlignBegin=133283|AlignEnd=133389|Gloss=effort.Cons
 3	gudùwaː	gud-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	obl	_	AlignBegin=133495|AlignEnd=133601|Gloss=run.Vnoun
@@ -1051,7 +1051,7 @@
 # sent_timecode = 135537, 136638
 # phonetic_text = dan muː / bàmù sanìː soːjà ba //
 # text = dan muː < bàmù san soːjà ba //
-# text_en =  Because we we were not used to them.
+# text_en = Because we we were not used to them.
 1	dan	don	SCONJ	_	_	5	discourse	_	AlignBegin=135537|AlignEnd=135675|Gloss=because
 2	muː	muː	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=135675|AlignEnd=135813|Gloss=1Plur.Nom
 3	<	<	PUNCT	_	_	5	punct	_	AlignBegin=135813|AlignEnd=135951|Gloss=PUNCT
@@ -1067,7 +1067,7 @@
 # sent_timecode = 136990, 138775
 # phonetic_text = dà sukà zoː hakà shiː nèː / sukà ɗan sàːraː -i itàːceː //
 # text = dà sukà zoː hakà shiː nèː sukà ɗan sàːri itàːceː //
-# text_en =  When they arrived, then they fell some trees.
+# text_en = When they arrived, then they fell some trees.
 1	dà	dà	SCONJ	_	_	3	mark	_	AlignBegin=136990|AlignEnd=137139|Gloss=COMP
 2	sukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=3	3	aux	_	AlignBegin=137139|AlignEnd=137288|Background=Yes|Gloss=3Plur.Perf.Bkg
 3	zoː	zoː	VERB	_	_	9	advcl	_	AlignBegin=137288|AlignEnd=137437|Gloss=come
@@ -1086,7 +1086,7 @@
 # sent_timecode = 139142, 141816
 # phonetic_text = sunàː ɗan yi -n ɗaːkìː -una hakà // ɗan ɗaːkìː ɗan ƙàramiː \Plur / dà sauraː -n -sù /
 # text = sunàː ɗan yîn ɗaːkunàː hakà |a ɗan ɗaːkìː ɗan ƙàramiː |c dà sauran =sù //
-# text_en =  They built huts like that, little huts, etc.
+# text_en = They built huts like that, little huts, etc.
 1	sunàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=3	3	aux	_	AlignBegin=139142|AlignEnd=139333|Gloss=3Plur.Prog
 2	ɗan	ɗan	ADV	_	_	3	advmod	_	AlignBegin=139333|AlignEnd=139524|Gloss=little
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	0	root	_	AlignBegin=139524|AlignEnd=139620|Gloss=do.Vnoun.Cons
@@ -1133,7 +1133,7 @@
 # sent_timecode = 145716, 146874
 # phonetic_text = tòː / àmmaː muː / munàː jîː -n tsòːroː /
 # text = tòː < àmmaː muː < munàː jîn tsòːroː //
-# text_en =  Well, but we, we were frightened.
+# text_en = Well, but we, we were frightened.
 1	tòː	tòː	INTJ	_	_	7	discourse	_	AlignBegin=145716|AlignEnd=145845|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=145845|AlignEnd=145974|Gloss=PUNCT
 3	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	AlignBegin=145974|AlignEnd=146038|Gloss=but
@@ -1150,7 +1150,7 @@
 # sent_timecode = 147598, 148664
 # phonetic_text = munàː gudù munàː ɓoːyèː -waː //
 # text = baːmàː iyà zamaː ai //
-# text_en =  We could not stay. .
+# text_en = We could not stay. .
 1	baːmàː	_	AUX	baːsàː/baːsù	Aspect=ProgNeg|Number=Plur|Person=1|Polarity=Neg	2	aux	_	AlignBegin=146995|AlignEnd=147116|Gloss=1Plur.Prog.Neg
 2	iyà	iyàː	VERB	_	_	0	root	_	AlignBegin=147116|AlignEnd=147237|Gloss=can
 3	zamaː	zaun-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	obj	_	AlignBegin=147237|AlignEnd=147358|Gloss=stay.Vnoun
@@ -1212,7 +1212,7 @@
 # sent_timecode = 151393, 152542
 # phonetic_text = a / yànzu taː r̃àsu //
 # text = aː < yànzu taː r̃àsu //
-# text_en =  Ah, now she is dead.
+# text_en = Ah, now she is dead.
 1	aː	aː	INTJ	_	_	5	discourse	_	AlignBegin=151393|AlignEnd=151585|Gloss=ah
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=151585|AlignEnd=151777|Gloss=PUNCT
 3	yànzu	yànzu	ADV	_	_	5	advmod	_	AlignBegin=151777|AlignEnd=151969|Gloss=now
@@ -1226,7 +1226,7 @@
 # sent_timecode = 152542, 154779
 # phonetic_text = kìːmaːnìː -n shèːkaràː -u -n -tà / biyu kèː nan dà ràsu -waː //
 # text = kìːmaːnìn shèːkàruːrun =tà < biyu kèːnan dà ràsuwaː //
-# text_en =  The number of years since she's been dead is two.
+# text_en = The number of years since she's been dead is two.
 1	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons	6	dislocated	_	AlignBegin=152542|AlignEnd=152666|Gloss=sum.Cons
 2	shèːkàruːrun	shèːkaràː	NOUN	_	Definite=Cons|Number=Plur	1	nmod	_	AlignBegin=152791|AlignEnd=152853|Gloss=year.Plur.Cons
 3	=tà	=tà	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	nmod	_	AlignBegin=152977|AlignEnd=153040|Gloss=3Fem.Gen
@@ -1254,7 +1254,7 @@
 # sent_timecode = 155459, 156582
 # phonetic_text = eː yànzu dà ràsu -waː //
 # text = eː yànzu dà ràsuwaː //
-# text_en =  Yes, between now and her death.
+# text_en = Yes, between now and her death.
 1	eː	eː	INTJ	_	_	2	discourse	_	AlignBegin=155459|AlignEnd=155684|Gloss=yes
 2	yànzu	yànzu	ADV	_	_	0	root	_	AlignBegin=155684|AlignEnd=155909|Gloss=now
 3	dà	dà	CCONJ	_	_	4	cc	_	AlignBegin=155909|AlignEnd=156134|Gloss=with
@@ -1287,7 +1287,7 @@
 # sent_timecode = 157961, 159960
 # phonetic_text = baːyan ràsu -waː -n -tà / inàː zàune à wajen kàːwuː -naː nèː //
 # text = baːyan ràsuwan =tà < inàː zàune à wajen kàːwuː =naː nèː //
-# text_en =  After her death I lived with my uncle.
+# text_en = After her death I lived with my uncle.
 1	baːyan	baːyaː	ADP	_	_	2	case	_	AlignBegin=157961|AlignEnd=158161|Gloss=after
 2	ràsuwan	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	6	obl	_	AlignBegin=158161|AlignEnd=158211|Gloss=die.Vnoun.Cons
 3	=tà	=tà	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	nmod	_	AlignBegin=158311|AlignEnd=158361|Gloss=3Fem.Gen
@@ -1324,7 +1324,7 @@
 # sent_timecode = 161023, 161656
 # phonetic_text = eː //
 # text = eː //
-# text_en =  Yes.
+# text_en = Yes.
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=161023|AlignEnd=161339|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=161339|AlignEnd=161656|Gloss=PUNCT
 
@@ -1334,7 +1334,7 @@
 # sent_timecode = 161656, 163272
 # phonetic_text = shiː / kàːwuː -naː yanàː wannàn ùnguwaː -n fulàːniː //
 # text = shiː < kàːwuː =naː yanàː wannàn Ùngwan Fulàːniː //
-# text_en =  He, my uncle, he is at the Fulanis' quater.
+# text_en = He, my uncle, he is at the Fulanis' quater.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated	_	AlignBegin=161656|AlignEnd=161858|Gloss=3Masc.Nom
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=161858|AlignEnd=162060|Gloss=PUNCT
 3	kàːwuː	kàːwu	NOUN	_	_	1	appos	_	AlignBegin=162060|AlignEnd=162127|Gloss=uncle
@@ -1351,7 +1351,7 @@
 # sent_timecode = 163272, 164269
 # phonetic_text = mài suːnaː / àlhaːjì iːdi //
 # text = mài suːnaː Àlhaːjì Iːdi //
-# text_en =  His is called Alhaji Idi.
+# text_en = His is called Alhaji Idi.
 1	mài	mài	PART	_	_	2	case	_	AlignBegin=163272|AlignEnd=163438|Gloss=holder_of
 2	suːnaː	suːnaː	NOUN	_	_	0	root	_	AlignBegin=163438|AlignEnd=163604|Gloss=name
 3	Àlhaːjì	Àlhaːjì	PROPN	_	_	2	nmod	_	AlignBegin=163770|AlignEnd=163936|Gloss=Alhaji|Overlap=HAUZ_BC_CONV_01_SP2_060-60
@@ -1364,7 +1364,7 @@
 # sent_timecode = 164844, 164985
 # phonetic_text = eː
 # text = eː //
-# text_en =  Yes.
+# text_en = Yes.
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=164844|AlignEnd=164985|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=164844|AlignEnd=164985|Gloss=yes
 
@@ -1374,7 +1374,7 @@
 # sent_timecode = 164985, 166583
 # phonetic_text = wandà akà fi sanìː -n -shi / dà sarkiː -n noːmaː //
 # text = wandà akà fi sanìn =shi dà Sarkin Noːmaː //
-# text_en =  He is best known as the king of farmers.
+# text_en = He is best known as the king of farmers.
 1	wandà	wandà	PRON	_	PronType=Rel	4	nmod	_	AlignBegin=164985|AlignEnd=165163|Gloss=who|Overlap=HAUZ_BC_CONV_01_SP2_058-058
 2	akà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Person=4	3	aux	_	AlignBegin=165163|AlignEnd=165341|AttachTo=HAUZ_BC_CONV_01_SP2_058-058|Background=Yes|Gloss=4.Perf.Bkg|Rel=mod@relcl
 3	fi	fi	VERB	_	_	0	root	_	AlignBegin=165341|AlignEnd=165519|Gloss=exceed
@@ -1391,7 +1391,7 @@
 # sent_timecode = 166692, 170540
 # phonetic_text = àmmaː / dàliːlìː -ǹ dà ya sâː akèː kiràː -n -shi dà sarkiː -n noːmaː / sabòːdà shiː / ma- noːmàː -iː\HLH nèː //
 # text = àmmaː < dàliːlìn dà ya sâː akèː kiràn =shi dà Sarkin Noːmaː < sabòːdà shiː manòːmiː nèː //
-# text_en =  But the reason why he is called king of farmers, is because he he is a farmer.
+# text_en = But the reason why he is called king of farmers, is because he he is a farmer.
 1	àmmaː	àmmaː	CCONJ	_	_	14	discourse	_	AlignBegin=166692|AlignEnd=166906|Gloss=but
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=166906|AlignEnd=167120|Gloss=PUNCT
 3	dàliːlìn	dàliːlìː	NOUN	_	Definite=Def	14	dislocated	_	AlignBegin=167120|AlignEnd=167227|Gloss=cause.Def
@@ -1417,7 +1417,7 @@
 # sent_timecode = 171023, 172138
 # phonetic_text = ya -kà -n yi noːmaː sòːsai //
 # text = yakàn yi noːmaː sòːsai //
-# text_en =  He is a good farmer.
+# text_en = He is a good farmer.
 1	yakàn	_	AUX	kàn	Aspect=Hab|Gender=Masc|Person=3	2	aux	_	AlignBegin=171023|AlignEnd=171097|Gloss=3Masc.Hab
 2	yi	yi	VERB	_	_	0	root	_	AlignBegin=171246|AlignEnd=171469|Gloss=do
 3	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	xcomp	_	AlignBegin=171469|AlignEnd=171692|Gloss=farm.Vnoun
@@ -1430,7 +1430,7 @@
 # sent_timecode = 173385, 174126
 # phonetic_text = shiː / bâː wandà yaː &//
 # text = shiː < bâː wandà yaː &//
-# text_en =  He, nobody..
+# text_en = He, nobody..
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	dislocated	_	AlignBegin=173385|AlignEnd=173509|Gloss=3Masc.Nom
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=173509|AlignEnd=173633|Gloss=PUNCT
 3	bâː	bâː	PART	_	Polarity=Neg	0	root	_	AlignBegin=173633|AlignEnd=173757|Gloss=Neg
@@ -1444,7 +1444,7 @@
 # sent_timecode = 174126, 175547
 # phonetic_text = an rigaː an sanìː shiː à nan wajeː -ǹ dai //
 # text = an rigaː an san shì à nan wajên dai //
-# text_en =  He is well known there indeed.
+# text_en = He is well known there indeed.
 1	an	_	AUX	sun	Aspect=Perf|Person=4	0	root	_	AlignBegin=174126|AlignEnd=174268|Gloss=4.Perf
 2	rigaː	rigaː	VERB	_	_	1	ccomp	_	AlignBegin=174268|AlignEnd=174410|Gloss=already
 3	an	_	AUX	sun	Aspect=Perf|Person=4	4	aux	_	AlignBegin=174410|AlignEnd=174552|Gloss=4.Perf
@@ -1462,7 +1462,7 @@
 # sent_timecode = 175547, 178591
 # phonetic_text = ìdan dai noːmaː nèː / har̃kàː -n noːmaː nèː / yanàː ɗaya dàgà cikin wânnan har̃kàː -n /
 # text = ìdan dai noːmaː nèː < har̃kàn noːmaː nèː < yanàː ɗaya dàgà cikin wânnan har̃kàn //
-# text_en =  As far as farming is concerned, the profession of farmer, he is the first in the profession.
+# text_en = As far as farming is concerned, the profession of farmer, he is the first in the profession.
 1	ìdan	ìdan	SCONJ	_	_	8	mark	_	AlignBegin=175547|AlignEnd=175737|Gloss=if
 2	dai	dai	PART	_	_	8	discourse	_	AlignBegin=175737|AlignEnd=175927|Gloss=indeed
 3	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	xcomp	_	AlignBegin=175927|AlignEnd=176117|Gloss=farm.Vnoun
@@ -1486,7 +1486,7 @@
 # sent_timecode = 178438, 181010
 # phonetic_text = tòː yànzu ɗîn kuma / kunàː sànaː'àː -n noːmaː tàːre dà shiː kèː nan har̃ gòːbe //
 # text = tòː yànzu ɗîn kuma < kunàː sànaː'àn noːmaː tàːre dà shiː kèːnan har̃ gòːbe //
-# text_en =  Well now, you are farming with him? and you will continue?
+# text_en = Well now, you are farming with him? and you will continue?
 1	tòː	tòː	INTJ	_	_	7	discourse	_	AlignBegin=178438|AlignEnd=178599|Gloss=well
 2	yànzu	yànzu	ADV	_	_	7	obl	_	AlignBegin=178599|AlignEnd=178760|Gloss=now
 3	ɗîn	ɗin	DET	_	Definite=Def	2	det	_	AlignBegin=178760|AlignEnd=178921|Gloss=of.Def
@@ -1509,7 +1509,7 @@
 # sent_timecode = 181588, 182845
 # phonetic_text = munàː sànaː'àː -n noːmaː tàːre dà shiː //
 # text = munàː sànaː'àn noːmaː tàːre dà shiː //
-# text_en =  I am farming with him as a job.
+# text_en = I am farming with him as a job.
 1	munàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=1	2	aux	_	AlignBegin=181588|AlignEnd=181768|Gloss=1Plur.Prog
 2	sànaː'àn	sànaː'àː	NOUN	_	Definite=Cons	0	root	_	AlignBegin=181768|AlignEnd=181858|Gloss=profession.Cons
 3	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	obl	_	AlignBegin=181948|AlignEnd=182128|Gloss=farm.Vnoun
@@ -1524,7 +1524,7 @@
 # sent_timecode = 182845, 184162
 # phonetic_text = tòː shiː / yanàː dà yaːròː \Plur nèː kàman -kà //
 # text = tòː shiː < yanàː dà yâːraː nèː kàman =kà ?//
-# text_en =  Well he, does he have children like you?
+# text_en = Well he, does he have children like you?
 1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=182845|AlignEnd=182991|Gloss=well
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	dislocated	_	AlignBegin=182991|AlignEnd=183137|Gloss=3Masc.Nom
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=183137|AlignEnd=183283|Gloss=PUNCT
@@ -1562,7 +1562,7 @@
 # sent_timecode = 186883, 188157
 # phonetic_text = tàːre kukèː sànaː'àː -n noːmaː dà suː ?//
 # text = tàːre kukèː sànaː'àn noːmaː dà suː ?//
-# text_en =  You are working together as farmers?
+# text_en = You are working together as farmers?
 1	tàːre	tàːre	ADV	_	_	0	root	_	AlignBegin=186883|AlignEnd=187065|Gloss=together
 2	kukèː	_	AUX	kèː/kà	Aspect=ProgBkg|Number=Plur|Person=2	3	aux	_	AlignBegin=187065|AlignEnd=187247|Background=Yes|Gloss=2Plur.Prog.Bkg
 3	sànaː'àn	sànaː'àː	NOUN	_	Definite=Cons	1	advcl:cleft	_	AlignBegin=187247|AlignEnd=187338|Gloss=profession.Cons
@@ -1577,7 +1577,7 @@
 # sent_timecode = 188042, 188423
 # phonetic_text = eː //
 # text = eː //
-# text_en =  Yes.
+# text_en = Yes.
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=188042|AlignEnd=188232|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=188232|AlignEnd=188423|Gloss=PUNCT
 
@@ -1587,7 +1587,7 @@
 # sent_timecode = 188423, 188894
 # phonetic_text = munàː tàːre /
 # text = munàː tàːre //
-# text_en =  We are together.
+# text_en = We are together.
 1	munàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=1	2	cop	_	AlignBegin=188423|AlignEnd=188580|Gloss=1Plur.Pred/Loc|wordform=nàː
 2	tàːre	tàːre	ADV	_	_	0	root	_	AlignBegin=188580|AlignEnd=188737|Gloss=together
 3	//	//	PUNCT	_	_	2	punct	_	AlignBegin=188737|AlignEnd=188894|Gloss=PUNCT
@@ -1598,7 +1598,7 @@
 # sent_timecode = 188897, 190084
 # phonetic_text = dà suː >+ mukèː yîː -n sànaː'àː -n noːmaː dà suː //
 # text = dà suː >+ mukèː yîn sànaː'àn noːmaː dà suː //
-# text_en =  It's with them we work as farmers.
+# text_en = It's with them we work as farmers.
 1	dà	dà	ADP	_	_	2	case	_	AlignBegin=188897|AlignEnd=189016|Gloss=with
 2	suː	suː	PRON	_	Number=Plur|Person=2|PronType=Prs	0	root	_	AlignBegin=189016|AlignEnd=189135|Gloss=2Plur.Nom
 3	>+	>+	PUNCT	_	_	5	punct	_	AlignBegin=189135|AlignEnd=189254|Gloss=PUNCT
@@ -1616,7 +1616,7 @@
 # sent_timecode = 190084, 192313
 # phonetic_text = tòː suː maː / sunàː nan à zàune nèː à wânnan gàriː na fallàːdân //
 # text = tòː suː maː < sunàː nan à zàune nèː à wânnan gàriː na Pallàːdân //
-# text_en =  Well they too, they are staying in the village of Palladan.
+# text_en = Well they too, they are staying in the village of Palladan.
 1	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=190084|AlignEnd=190233|Gloss=well
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	dislocated	_	AlignBegin=190233|AlignEnd=190382|Gloss=2Plur.Nom
 3	maː	maː	PART	_	_	2	discourse	_	AlignBegin=190382|AlignEnd=190531|Gloss=even
@@ -1639,7 +1639,7 @@
 # sent_timecode = 192313, 194920
 # phonetic_text = tòː / kai kaː kasànceː kàman kanàː kai maː kàman yaːròː -n -shi kèː nan yànzu //
 # text = tòː < kai kaː kasànceː kàman kanàː kai maː kàman yaːròn =shì kèːnan yànzu //
-# text_en =  Well, you have become as if you are, you too, like his son now.
+# text_en = Well, you have become as if you are, you too, like his son now.
 1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=192313|AlignEnd=192487|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=192487|AlignEnd=192661|Gloss=PUNCT
 3	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	5	vocative	_	AlignBegin=192661|AlignEnd=192835|Gloss=2Masc.Nom
@@ -1662,7 +1662,7 @@
 # sent_timecode = 194909, 195072
 # phonetic_text = eː
 # text = eː //
-# text_en =  Yes.
+# text_en = Yes.
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=194909|AlignEnd=195072|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=195072|AlignEnd=195267|Gloss=PUNCT
 
@@ -1672,7 +1672,7 @@
 # sent_timecode = 195072, 196436
 # phonetic_text = / yànzu inàː ma- tsayàː -iː\H -n yaːròː -n -shi nèː //
 # text = yànzu inàː matsayin yaːròn =shì nèː //
-# text_en =  Now I stand for his son.
+# text_en = Now I stand for his son.
 1	yànzu	yànzu	ADV	_	_	3	advmod	_	AlignBegin=195267|AlignEnd=195462|Gloss=now
 2	inàː	_	AUX	nàː	Aspect=Prog|Number=Sing|Person=1	3	cop	_	AlignBegin=195462|AlignEnd=195657|Gloss=1Sing.Pred/Loc|wordform=nàː
 3	matsayin	matsayiː	NOUN	_	Definite=Cons	0	root	_	AlignBegin=195657|AlignEnd=195706|Gloss=position.Cons
@@ -1687,7 +1687,7 @@
 # sent_timecode = 196436, 197892
 # phonetic_text = tundà wandà akà ràsu / akà bâː shi //
 # text = tundà wandà akà ràsu < akà baː shì //
-# text_en =  Since the one that had died, I had been given to him.
+# text_en = Since the one that had died, I had been given to him.
 1	tundà	tundà	SCONJ	_	_	7	discourse	_	AlignBegin=196436|AlignEnd=196598|Gloss=since
 2	wandà	wandà	PRON	_	PronType=Rel	7	dislocated	_	AlignBegin=196598|AlignEnd=196760|Gloss=who
 3	akà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Person=4	4	aux	_	AlignBegin=196760|AlignEnd=196922|Background=Yes|Gloss=4.Perf.Bkg
@@ -1704,7 +1704,7 @@
 # sent_timecode = 198142, 198860
 # phonetic_text = inàː hannuː -n -shi //=
 # text = inàː hannun =shi //
-# text_en =  I am in his hands,
+# text_en = I am in his hands,
 1	inàː	_	AUX	nàː	Aspect=Prog|Number=Sing|Person=1	2	cop	_	AlignBegin=198142|AlignEnd=198381|Gloss=1Sing.Pred/Loc|wordform=nàː
 2	hannun	hannuː	NOUN	_	Definite=Cons	0	root	_	AlignBegin=198381|AlignEnd=198461|Gloss=hand.Cons
 3	=shi	=shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	nmod	_	AlignBegin=198541|AlignEnd=198620|Gloss=3Masc
@@ -1804,7 +1804,7 @@
 # sent_timecode = 214003, 214886
 # phonetic_text = dàliːlìː -ǹ kuma a &//
 # text = dàliːlìn kuma aː &//
-# text_en =  The reason is..
+# text_en = The reason is..
 1	dàliːlìn	dàliːlìː	NOUN	_	Definite=Def	0	root	_	AlignBegin=214003|AlignEnd=214113|Gloss=cause.Def|Scrap=Yes
 2	kuma	kuma	PART	_	_	1	discourse	_	AlignBegin=214224|AlignEnd=214445|Gloss=also
 3	aː	aː	INTJ	_	_	1	discourse	_	AlignBegin=214445|AlignEnd=214666|Gloss=FILL
@@ -1816,7 +1816,7 @@
 # sent_timecode = 214886, 216945
 # phonetic_text = yauwàː / shiː bàːba -naː / allàː / allàː ya mishì ràsu -waː //
 # text = yauwàː < shiː bàːba =naː < Allàː || Allàː ya mishì ràsuwaː //
-# text_en =  Ok, he, my father, God, God took him back.
+# text_en = Ok, he, my father, God, God took him back.
 1	yauwàː	yauwàː	INTJ	_	_	10	discourse	_	AlignBegin=214886|AlignEnd=215058|Gloss=ok
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=215058|AlignEnd=215230|Gloss=PUNCT
 3	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	obl	_	AlignBegin=215230|AlignEnd=215402|Gloss=3Masc.Nom
@@ -1930,7 +1930,7 @@
 # sent_timecode = 471640, 472148
 # phonetic_text = m̀ː //
 # text = m̀ː //
-# text_en =  Mm.
+# text_en = Mm.
 1	m̀ː	m̀ː	INTJ	_	_	0	root	_	AlignBegin=471640|AlignEnd=471894|Gloss=Bkl
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=471894|AlignEnd=472148|Gloss=PUNCT
 
@@ -1940,7 +1940,7 @@
 # sent_timecode = 232434, 235006
 # phonetic_text = tòː ìdan mukà sayar̃ shiː nèː zaːmù ɗan saːmoː kuɗiː dà sauraː -n -sù //
 # text = tòː ìdan mukà sayar̃ shiː nèː zaːmù ɗan saːmoː kuɗiː dà sauran =sù //
-# text_en =  Well if we sell it, then,  we will get a little money, etc.
+# text_en = Well if we sell it, then,  we will get a little money, etc.
 1	tòː	tòː	INTJ	_	_	9	discourse	_	AlignBegin=232434|AlignEnd=232632|Gloss=well
 2	ìdan	ìdan	SCONJ	_	_	4	mark	_	AlignBegin=232632|AlignEnd=232830|Gloss=if
 3	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	4	aux	_	AlignBegin=232830|AlignEnd=233028|Background=Yes|Gloss=1Plur.Perf.Bkg
@@ -2027,7 +2027,7 @@
 # sent_timecode = 245882, 247642
 # phonetic_text = yanàː kwànce à cikin / ganyeː //
 # text = yanàː kwànce à cikin ganyeː //
-# text_en =  He was lying in.. the grass.
+# text_en = He was lying in.. the grass.
 1	yanàː	_	AUX	nàː	Aspect=Prog|Gender=Masc|Person=3	2	cop	_	AlignBegin=245882|AlignEnd=246133|Gloss=3Masc.Pred/Loc|wordform=nàː
 2	kwànce	kwant-	VERB	_	_	0	root	_	AlignBegin=246133|AlignEnd=246384|Gloss=lie.Stat
 3	à	à	ADP	_	_	5	case	_	AlignBegin=246384|AlignEnd=246635|Gloss=at
@@ -2041,7 +2041,7 @@
 # sent_timecode = 247642, 250589
 # phonetic_text = dòːmin muː bà &// loːkàciː -ǹ bàn &// niː bân wàːyoː naː sanìː sâː ba //
 # text = dòːmin muː bà &//
-# text_en =  Because we didn't...
+# text_en = Because we didn't...
 1	dòːmin	dòːmin	SCONJ	_	_	3	discourse	_	AlignBegin=247642|AlignEnd=247838|Gloss=because
 2	muː	muː	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	dislocated	_	AlignBegin=247838|AlignEnd=248034|Gloss=1Plur.Nom
 3	bà	bà	PART	_	Polarity=Neg	0	root	_	AlignBegin=248034|AlignEnd=248230|Gloss=Neg
@@ -2080,7 +2080,7 @@
 # sent_timecode = 250917, 251648
 # phonetic_text = ita taː sanìː shi //
 # text = ita taː san shì //
-# text_en =  She had.
+# text_en = She had.
 1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	3	obl	_	AlignBegin=250917|AlignEnd=251063|Gloss=3Fem.Nom
 2	taː	_	AUX	sun	Aspect=Perf|Gender=Fem|Person=3	3	aux	_	AlignBegin=251063|AlignEnd=251209|Gloss=3Fem.Perf
 3	san	sanìː	VERB	_	_	0	root	_	AlignBegin=251209|AlignEnd=251355|Gloss=know
@@ -2093,7 +2093,7 @@
 # sent_timecode = 252232, 255521
 # phonetic_text = dà mukà taːsoː / munàː saːraː -n itàːceː munàː saːraː -n itàːceː //
 # text = dà mukà taːsoː < munàː saːran itàːceː munàː saːran itàːceː //
-# text_en =  As we had left, we were cutting wood.
+# text_en = As we had left, we were cutting wood.
 1	dà	dà	SCONJ	_	_	3	mark	_	AlignBegin=252232|AlignEnd=252415|Gloss=COMP
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=252415|AlignEnd=252598|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	taːsoː	taːs-	VERB	_	_	6	advcl	_	AlignBegin=252598|AlignEnd=252781|Gloss=leave.DIR
@@ -2112,7 +2112,7 @@
 # sent_timecode = 254245, 255521
 # phonetic_text = tòː shiː sâː -ǹ / loːkàciː -ǹ àkwai &//
 # text = tòː shiː sân < loːkàcîn àkwai &//
-# text_en =  As we had left, we were cutting wood, well, the bull, at that time there was ..
+# text_en = As we had left, we were cutting wood, well, the bull, at that time there was ..
 1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=254245|AlignEnd=254337|Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated	_	AlignBegin=254337|AlignEnd=254428|Gloss=3Masc.Nom
 3	sân	sâː	NOUN	_	Definite=Def	2	appos	_	AlignBegin=254611|AlignEnd=254672|Gloss=bull.Def
@@ -2127,7 +2127,7 @@
 # sent_timecode = 255521, 256221
 # phonetic_text = kaː sanìː zangòː //
 # text = kaː san Zangòː //
-# text_en =  Do you know Zango?
+# text_en = Do you know Zango?
 1	kaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=2	2	aux	_	AlignBegin=255521|AlignEnd=255696|Gloss=2Masc.Perf
 2	san	sanìː	VERB	_	_	0	root	_	AlignBegin=255696|AlignEnd=255871|Gloss=know
 3	Zangòː	Zangòː	PROPN	_	_	2	obj	_	AlignBegin=255871|AlignEnd=256046|Gloss=Zango
@@ -2139,7 +2139,7 @@
 # sent_timecode = 256647, 258124
 # phonetic_text = zangòː loːkàciː -ǹ / bàtà cìka hakà ba //
 # text = Zangòː loːkàcîn < bàtà cìka hakà ba //
-# text_en =  Zango at that time was not full like today.
+# text_en = Zango at that time was not full like today.
 1	Zangòː	Zangòː	PROPN	_	_	5	dislocated	_	AlignBegin=256647|AlignEnd=256832|Gloss=Zango
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	5	obl	_	AlignBegin=256832|AlignEnd=256924|Gloss=time.Def
 3	<	<	PUNCT	_	_	5	punct	_	AlignBegin=257017|AlignEnd=257202|Gloss=PUNCT
@@ -2155,7 +2155,7 @@
 # sent_timecode = 258124, 258767
 # phonetic_text = bâː ginìː -e2 //
 # text = bâː gìne-gìne //
-# text_en =  There were no buildings.
+# text_en = There were no buildings.
 1	bâː	bâː	PART	_	Polarity=Neg	0	root	_	AlignBegin=258124|AlignEnd=258338|Gloss=Neg
 2	gìne-gìne	ginìː	NOUN	_	ExtPos=NOUN|Number=Plur	1	nsubj	_	AlignBegin=258338|AlignEnd=258445|Gloss=building.Plur
 3	//	//	PUNCT	_	_	1	punct	_	AlignBegin=258552|AlignEnd=258767|Gloss=PUNCT
@@ -2166,7 +2166,7 @@
 # sent_timecode = 259035, 260411
 # phonetic_text = sâː -ǹ ya ƙwaːcèː à hannuː -n wani //
 # text = sân ya ƙwaːcèː à hannun wani //
-# text_en =  The bull had escaped somebody's control.
+# text_en = The bull had escaped somebody's control.
 1	sân	sâː	NOUN	_	Definite=Def	3	nsubj	_	AlignBegin=259035|AlignEnd=259133|Gloss=bull.Def
 2	ya	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Masc|Person=3	3	aux	_	AlignBegin=259232|AlignEnd=259429|Background=Yes|Gloss=3Masc.Perf.Bkg
 3	ƙwaːcèː	ƙwaːt-	VERB	_	_	0	root	_	AlignBegin=259429|AlignEnd=259626|Gloss=escape
@@ -2181,7 +2181,7 @@
 # sent_timecode = 260848, 263072
 # phonetic_text = dà ya ƙwaːcèː à hannuː -n wani ya koːmàː wânnan daːjìː ya jeː ya kwântaː
 # text = dà ya ƙwaːcèː à hannun wani ya koːmàː wânnan daːjìː ya jeː ya kwântaː //
-# text_en =  After escaping he had returned to that bush and lain down.
+# text_en = After escaping he had returned to that bush and lain down.
 1	dà	dà	SCONJ	_	_	3	mark	_	AlignBegin=260848|AlignEnd=261007|Gloss=COMP
 2	ya	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Masc|Person=3	3	aux	_	AlignBegin=261007|AlignEnd=261166|Background=Yes|Gloss=3Masc.Perf.Bkg
 3	ƙwaːcèː	ƙwaːt-	VERB	_	_	8	advcl	_	AlignBegin=261166|AlignEnd=261325|Gloss=escape
@@ -2204,7 +2204,7 @@
 # sent_timecode = 263072, 263808
 # phonetic_text = muː bàmù sanìː ba //
 # text = muː bàmù sanìː ba //
-# text_en =  We, we didn't know.
+# text_en = We, we didn't know.
 1	muː	muː	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	dislocated	_	AlignBegin=263072|AlignEnd=263219|Gloss=1Plur.Nom
 2	bàmù	_	AUX	bàsù	Aspect=PerfNeg|Number=Plur|Person=1|Polarity=Neg	0	root	_	AlignBegin=263219|AlignEnd=263366|Gloss=1Plur.Perf.Neg
 3	sanìː	sanìː	VERB	_	_	2	ccomp	_	AlignBegin=263366|AlignEnd=263513|Gloss=know
@@ -2217,7 +2217,7 @@
 # sent_timecode = 264138, 265608
 # phonetic_text = eː dàgà baːya ya taːsoː ya biyoː mù //
 # text = eː dàgà baːya ya taːsoː ya biyoː mù //
-# text_en =  From the beginning, he had got up and followed us.
+# text_en = From the beginning, he had got up and followed us.
 1	eː	eː	INTJ	_	_	5	discourse	_	AlignBegin=264138|AlignEnd=264301|Gloss=yes
 2	dàgà	dàgà	ADP	_	_	3	case	_	AlignBegin=264301|AlignEnd=264464|Gloss=from
 3	baːya	baːya	ADV	_	_	5	advmod	_	AlignBegin=264464|AlignEnd=264627|Gloss=behind
@@ -2234,7 +2234,7 @@
 # sent_timecode = 265608, 267329
 # phonetic_text = tòː shiː nèː zân iyàː tunàː -waː à ràːyuwaː wandà yakèː //
 # text = tòː shiː nèː zân iyà tunàːwaː à ràːyuwaː wandà yakè //
-# text_en =  That's what I will remember in this life.
+# text_en = That's what I will remember in this life.
 1	tòː	tòː	INTJ	_	_	3	discourse	_	AlignBegin=265608|AlignEnd=265764|Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	xcomp	_	AlignBegin=265764|AlignEnd=265920|Gloss=3Masc.Nom
 3	nèː	neː/naː	PART	_	_	0	root	_	AlignBegin=265920|AlignEnd=266076|Gloss=Ident/Foc
@@ -2253,7 +2253,7 @@
 # sent_timecode = 267329, 268241
 # phonetic_text = naː ci wàhalàː sòːsai //
 # text = naː ci wàhalàː sòːsai //
-# text_en =  I really suffered.
+# text_en = I really suffered.
 1	naː	_	AUX	sun	Aspect=Perf|Number=Sing|Person=1	2	aux	_	AlignBegin=267329|AlignEnd=267511|Gloss=1Sing.Perf
 2	ci	ci	VERB	_	_	0	root	_	AlignBegin=267511|AlignEnd=267693|Gloss=eat
 3	wàhalàː	wàhalàː	NOUN	_	_	2	obj	_	AlignBegin=267693|AlignEnd=267875|Gloss=trouble
@@ -2266,7 +2266,7 @@
 # sent_timecode = 268681, 271336
 # phonetic_text = mukà dingàː gudùː // mukà dingàː gudùː // dà niː dà ita //
 # text = mukà dingà gudùː //= mukà dingà gudùː > dà niː dà ita //
-# text_en =  We kept on running. We kept on running, me and her.
+# text_en = We kept on running. We kept on running, me and her.
 1	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	2	aux	_	AlignBegin=268681|AlignEnd=268871|Background=Yes|Gloss=1Plur.Perf.Bkg
 2	dingà	ding-	VERB	_	_	0	root	_	AlignBegin=268871|AlignEnd=269061|Gloss=keep_on
 3	gudùː	gudùː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	obj	_	AlignBegin=269061|AlignEnd=269251|Gloss=runn.Vnoun
@@ -2287,7 +2287,7 @@
 # sent_timecode = 271336, 274422
 # phonetic_text = loːkàciː -ǹ dà akà saːmù / niː har̃ maː naː maː ɓacèː hanyàː // na àbù -ǹ nàn //
 # text = loːkàcîn dà akà saːmù < niː han niː maː naː maː ɓacè hanyàː na àbin nàn //
-# text_en =  When we met the bull, I got lost because of that.
+# text_en = When we met the bull, I got lost because of that.
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	12	obl	_	AlignBegin=271336|AlignEnd=271427|Gloss=time.Def
 2	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=271518|AlignEnd=271700|Gloss=COMP
 3	akà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Person=4	4	aux	_	AlignBegin=271700|AlignEnd=271882|Background=Yes|Gloss=4.Perf.Bkg
@@ -2312,7 +2312,7 @@
 # sent_timecode = 274422, 276762
 # phonetic_text = dàgà baːya dai akà koːmàː akà taːrà mùtûm -a_e / akà neːmoː nì //
 # text = dàgà baːya dai akà koːmàː akà taːrà mutàːneː akà neːmoː nì //
-# text_en =  Then, when she went back, she gathered people she looked for me.
+# text_en = Then, when she went back, she gathered people she looked for me.
 1	dàgà	dàgà	ADP	_	_	2	case	_	AlignBegin=274422|AlignEnd=274602|Gloss=from
 2	baːya	baːya	ADV	_	_	5	advmod	_	AlignBegin=274602|AlignEnd=274782|Gloss=behind
 3	dai	dai	PART	_	_	2	discourse	_	AlignBegin=274782|AlignEnd=274962|Gloss=indeed
@@ -2332,7 +2332,7 @@
 # sent_timecode = 277066, 278541
 # phonetic_text = à cikin wânnan daːjìː / akà daːwoː dà niː //
 # text = à cikin wânnan daːjìː >+ akà daːwoː dà niː //
-# text_en =  In that bush, they rescued me.
+# text_en = In that bush, they rescued me.
 1	à	à	ADP	_	ExtPos=ADP	4	case	_	AlignBegin=277066|AlignEnd=277214|Gloss=at|Idiom=Yes
 2	cikin	cikin	ADP	_	_	1	fixed	_	AlignBegin=277214|AlignEnd=277362|Gloss=inside|InIdiom=Yes
 3	wânnan	wânnan	DET	_	Definite=Def	4	det	_	AlignBegin=277362|AlignEnd=277510|Gloss=Def
@@ -2350,7 +2350,7 @@
 # sent_timecode = 278767, 280763
 # phonetic_text = sa'àː -ǹ nan suː / kuma wânnan mùtûm -a_e / mukà jeː mukà yi < r̃ìfôːt > //
 # text = sa'ànnan suː kuma wânnan mutàːneː < mukà jeː mukà yi r̃ìfôːt //
-# text_en =  Then they those people we went to report.
+# text_en = Then they those people we went to report.
 1	sa'ànnan	sa'ànnan	ADV	_	_	8	advmod	_	AlignBegin=278767|AlignEnd=278829|Gloss=then
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	dislocated	_	AlignBegin=279017|AlignEnd=279142|Gloss=2Plur.Nom
 3	kuma	kuma	PART	_	_	2	discourse	_	AlignBegin=279267|AlignEnd=279392|Gloss=also
@@ -2370,7 +2370,7 @@
 # sent_timecode = 281073, 282638
 # phonetic_text = sukà / mukà sanar̃ musù //
 # text = sukà || mukà sanar̃ musù //
-# text_en =  They.. we informed them.
+# text_en = They.. we informed them.
 1	sukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=3	4	reparandum	_	AlignBegin=281073|AlignEnd=281334|Background=Yes|Gloss=3Plur.Perf.Bkg
 2	||	||	PUNCT	_	_	1	punct	_	AlignBegin=281334|AlignEnd=281595|Gloss=PUNCT
 3	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	4	aux	_	AlignBegin=281595|AlignEnd=281856|Background=Yes|Gloss=1Plur.Perf.Bkg
@@ -2384,7 +2384,7 @@
 # sent_timecode = 282638, 285482
 # phonetic_text = sukà zoː sukà kaːmàː wânnan sâː // wandà yakèː cikin wânnan //
 # text = sukà zoː sukà kaːmàː wânnan sâː wandà yakè cikin wânnan X //
-# text_en =  They went and they .. caught that bull who was in that XX.
+# text_en = They went and they .. caught that bull who was in that XX.
 1	sukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=3	2	aux	_	AlignBegin=282638|AlignEnd=282875|Background=Yes|Gloss=3Plur.Perf.Bkg
 2	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=282875|AlignEnd=283112|Gloss=come
 3	sukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=3	4	aux	_	AlignBegin=283112|AlignEnd=283349|Background=Yes|Gloss=3Plur.Perf.Bkg
@@ -2404,7 +2404,7 @@
 # sent_timecode = 285296, 291848
 # phonetic_text = tòː shiː wânnan wandà kakèː zàune à wuriː -n -shi yànzu / wandà kukèː wânnan sànaː'àː -n dà noːmaː noːmaː -ǹ / ya dòːgarà dà koː shiː kùwa yakàn kèː yi nan wani àbù / // baːtin noːmaː //
 # text = tòː shiː wânnan wandà kakè zàune à wurin =shì yànzu |c wandà kukèː wânnan sànaː'àn noːmaː dà shiː kèːnan dà noːmàn ya dòːgarà koː kùwa yakàn yi wani àbù baːtin noːmaː ?//
-# text_en =  Well that man that you are staying with now, with whom you are farming, is he relying on farming, or does he do something else apart from farming?
+# text_en = Well that man that you are staying with now, with whom you are farming, is he relying on farming, or does he do something else apart from farming?
 1	tòː	tòː	INTJ	_	_	21	discourse	_	AlignBegin=285296|AlignEnd=285483|Gloss=well
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	21	dislocated	_	AlignBegin=285483|AlignEnd=285670|Gloss=3Masc.Nom
 3	wânnan	wânnan	PRON	_	_	2	appos	_	AlignBegin=285670|AlignEnd=285857|Gloss=Def
@@ -2444,7 +2444,7 @@
 # sent_timecode = 291664, 292385
 # phonetic_text = eːːː //
 # text = eːːː //
-# text_en =  Yes.
+# text_en = Yes.
 1	eːːː	eːːː	INTJ	_	_	0	root	_	AlignBegin=291664|AlignEnd=292024|Gloss=FILL
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=292024|AlignEnd=292385|Gloss=PUNCT
 
@@ -2454,7 +2454,7 @@
 # sent_timecode = 292790, 294257
 # phonetic_text = eːʔàːːː / yakàn ɗan yi kaːsuwancìː //
 # text = eː'àː < yakàn ɗan yi kaːsuwancìː //
-# text_en =  Er.. he does a little business.
+# text_en = Er.. he does a little business.
 1	eː'àː	eː'àː	INTJ	_	_	5	discourse	_	AlignBegin=292790|AlignEnd=293000|Gloss=FILL
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=293000|AlignEnd=293210|Gloss=PUNCT
 3	yakàn	_	AUX	kàn	Aspect=Hab|Gender=Masc|Person=3	5	aux	_	AlignBegin=293210|AlignEnd=293420|Gloss=3Masc.Hab
@@ -2469,7 +2469,7 @@
 # sent_timecode = 294257, 302944
 # phonetic_text = tundà yakàn saːroː itàːceː / ìdan ya ganiː hakà mài àrhaː / wajen màːsu moːtòː / sai yà ss sayar̃ // yà àbù -ǹ dan &// nân nèː yakèː saːmù -n kuɗiː &// dà zâi sàyaː taːkìː / dà sauraː -n -sù //
 # text = tundà yakàn saːroː itàːceː < ìdan ya ganiː hakà mài àrhaː < wajen màːsu moːtòː < sai yà s~ sayar̃ |c yà àbîn //
-# text_en =  As he cuts wood, if he sees something cheap with the lorry drivers then he ss. sells it and...
+# text_en = As he cuts wood, if he sees something cheap with the lorry drivers then he ss. sells it and...
 1	tundà	tundà	SCONJ	_	_	3	mark	_	AlignBegin=294257|AlignEnd=294473|Gloss=since
 2	yakàn	_	AUX	kàn	Aspect=Hab|Gender=Masc|Person=3	3	aux	_	AlignBegin=294473|AlignEnd=294689|Gloss=3Masc.Hab
 3	saːroː	saːr-	VERB	_	_	20	advcl	_	AlignBegin=294689|AlignEnd=294905|Gloss=fell.DIR
@@ -2523,7 +2523,7 @@
 # sent_timecode = 303206, 305631
 # phonetic_text = tòː shiː har̃kàː -n noːmaː / yaː kasànceː à yànzu kàman mèː neː kèː nan mìsaːlìː //
 # text = tòː shiː har̃kàn noːmaː < yaː kasànceː à yànzu kàman mèː neː kèːnan mìsaːlìː ?//
-# text_en =  Well, that profession of farmer, what has it become now, for example?
+# text_en = Well, that profession of farmer, what has it become now, for example?
 1	tòː	tòː	INTJ	_	_	7	discourse	_	AlignBegin=303206|AlignEnd=303358|Gloss=well
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	dislocated	_	AlignBegin=303358|AlignEnd=303510|Gloss=3Masc.Nom
 3	har̃kàn	har̃kàn	NOUN	_	Definite=Cons	2	appos	_	AlignBegin=303510|AlignEnd=303586|Gloss=profession.Cons
@@ -2556,7 +2556,7 @@
 # sent_timecode = 306378, 310212
 # phonetic_text = shiː har̃kàː -n noːmaː / àːːː / yakàn kasànceː kàman noːmaː nèː /
 # text = shiː har̃kàn noːmaː < àː yakàn kasànceː kàman noːmaː nèː //
-# text_en =  The profession of farmer, er.. it has become like farming.
+# text_en = The profession of farmer, er.. it has become like farming.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated	_	AlignBegin=306378|AlignEnd=306698|Gloss=3Masc.Nom
 2	har̃kàn	har̃kàn	NOUN	_	Definite=Cons|ExtPos=NOUN	1	appos	_	AlignBegin=306698|AlignEnd=306858|Gloss=profession.Cons
 3	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	compound	_	AlignBegin=307018|AlignEnd=307338|Gloss=farm.Vnoun
@@ -2603,7 +2603,7 @@
 # sent_timecode = 317593, 320363
 # phonetic_text = tundà kaː sanìː yànzu / baː àː yîː -n geːroː // à wajeː -a_e -ǹ //
 # text = tundà kaː san yànzu < baː'àː yîn geːroː à wajèːjên //
-# text_en =  Because you know now we don't do millet at that place.
+# text_en = Because you know now we don't do millet at that place.
 1	tundà	tundà	SCONJ	_	_	7	discourse	_	AlignBegin=317593|AlignEnd=317806|Gloss=since
 2	kaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=2	3	aux	_	AlignBegin=317806|AlignEnd=318019|Gloss=2Masc.Perf
 3	san	san-	VERB	_	_	7	discourse	_	AlignBegin=318019|AlignEnd=318232|Gloss=know
@@ -2622,7 +2622,7 @@
 # sent_timecode = 320363, 322965
 # phonetic_text = dan / à dâː / loːkàciː -ǹ dà / àːːː / bàː &//
 # text = dan < à dâː < loːkàcîn dà àː < bàː &//
-# text_en =  because formerly When.. er.. there is no..
+# text_en = because formerly When.. er.. there is no..
 1	dan	don	SCONJ	_	_	10	discourse	_	AlignBegin=320363|AlignEnd=320580|Gloss=because
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=320580|AlignEnd=320797|Gloss=PUNCT
 3	à	à	ADP	_	_	4	case	_	AlignBegin=320797|AlignEnd=321014|Gloss=at
@@ -2673,7 +2673,7 @@
 # sent_timecode = 329615, 335045
 # phonetic_text = dan ìdan zân iyàː tunàː -waː / shèː &// kàman shèːkaràː biyu dà sukà wucèː / wani shiː shiː kwàːraː ɗaya ya yi noːmaː -ǹ nan / à daːjìː //
 # text = dan ìdan zân iyà tunàːwaː < shè~ || kàman shèːkaràː biyu dà sukà wucèː < wani shiː shiː kwàːraː ɗaya ya yi noːmân nan > à daːjìː //
-# text_en =  Because when I think of it, er.. over the past two years, somebody, he alone he did this farming in the bush.
+# text_en = Because when I think of it, er.. over the past two years, somebody, he alone he did this farming in the bush.
 1	dan	don	SCONJ	_	_	16	discourse	_	AlignBegin=329615|AlignEnd=329809|Gloss=because
 2	ìdan	ìdan	SCONJ	_	_	4	mark	_	AlignBegin=329809|AlignEnd=330003|Gloss=if
 3	zân	_	AUX	zaːsù/zâːsu	Number=Sing|Person=1|Tense=Fut	4	aux	_	AlignBegin=330003|AlignEnd=330197|Gloss=1Sing.Fut
@@ -2709,7 +2709,7 @@
 # sent_timecode = 335381, 340151
 # phonetic_text = kawai tòː / noːmaː -n dà ya yi / gàbaː ɗaya sai / tsuntsuː -a_e sukà koːmàː sukà dingàː / cîː -n àmfàːniː -ǹ //
 # text = kawai tòː < noːman dà ya yi < gàbaː ɗaya sai < tsuntsàːyeː sukà koːmàː sukà dingà cîn àmfàːnîn //
-# text_en =  Well, what he had farmed, all of it, birds came and started eating the crop.
+# text_en = Well, what he had farmed, all of it, birds came and started eating the crop.
 1	kawai	kawai	ADV	_	_	15	advmod	_	AlignBegin=335381|AlignEnd=335608|Gloss=only
 2	tòː	tòː	INTJ	_	_	15	discourse	_	AlignBegin=335608|AlignEnd=335835|Gloss=well
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=335835|AlignEnd=336062|Gloss=PUNCT
@@ -2737,7 +2737,7 @@
 # sent_timecode = 340151, 343256
 # phonetic_text = dòːmin shiː shiː kaɗai nèː // ya / ya shuːkàː wânnan / geːroː //
 # text = dòːmin shiː shiː kaɗai nèː >+ ya || ya shuːkà wânnan geːroː //
-# text_en =  Because it's him alone who who sowed this millet.
+# text_en = Because it's him alone who who sowed this millet.
 1	dòːmin	dòːmin	SCONJ	_	_	5	discourse	_	AlignBegin=340151|AlignEnd=340373|Gloss=because
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	reparandum	_	AlignBegin=340373|AlignEnd=340595|Gloss=3Masc.Nom
 3	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	xcomp	_	AlignBegin=340595|AlignEnd=340817|Gloss=3Masc.Nom
@@ -2758,7 +2758,7 @@
 # sent_timecode = 343256, 344138
 # phonetic_text = kuma shiː shiː kaɗai nèː loː
 # text = kuma shiː shiː kaɗai nèː loː~ &//
-# text_en =  Because it's him alone..
+# text_en = Because it's him alone..
 1	kuma	kuma	PART	_	_	5	discourse	_	AlignBegin=343256|AlignEnd=343403|Gloss=also
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	xcomp	_	AlignBegin=343403|AlignEnd=343550|Gloss=3Masc.Nom
 3	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	appos	_	AlignBegin=343550|AlignEnd=343697|Gloss=3Masc.Nom
@@ -2773,7 +2773,7 @@
 # sent_timecode = 344138, 348142
 # phonetic_text = kaː sanìː ìdan àbù ya zoː dàwuri / tsuntsuː -a_e sunàː yinwàː / zaːsù dingàː cînyeː wânnan àbù //
 # text = kaː san ìdan àbù ya zoː dàwuri < tsuntsàːyeː sunàː yinwàː |c zaːsù dingà cînyè wânnan àbù //
-# text_en =  You know if the thing grows quickly birds are hungry they will keep on eating the thing.
+# text_en = You know if the thing grows quickly birds are hungry they will keep on eating the thing.
 1	kaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=2	2	aux	_	AlignBegin=344138|AlignEnd=344360|Gloss=2Masc.Perf
 2	san	sanìː	VERB	_	_	11	discourse	_	AlignBegin=344360|AlignEnd=344582|Gloss=know
 3	ìdan	ìdan	SCONJ	_	_	6	mark	_	AlignBegin=344582|AlignEnd=344804|Gloss=if
@@ -2799,7 +2799,7 @@
 # sent_timecode = 348385, 349676
 # phonetic_text = tòː loːkàciː -ǹ / shiː nèː ya zoː ya shuːkàː //
 # text = tòː loːkàcîn < shiː nèː ya zoː ya shuːkàː //
-# text_en =  Well at that time he is the one who sowed it.
+# text_en = Well at that time he is the one who sowed it.
 1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=348385|AlignEnd=348514|Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	5	obl	_	AlignBegin=348514|AlignEnd=348578|Gloss=time.Def
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=348643|AlignEnd=348772|Gloss=PUNCT
@@ -2817,7 +2817,7 @@
 # sent_timecode = 349929, 354996
 # phonetic_text = àmmaː àlhamdù lìllaːhì / àkân noːmaː -n -mù mukàn noːmàː / waːkeː / mukàn noːmàː masàr̃aː / mukàn noːmàː daːwàː //
 # text = àmmaː àlhamdù lìllaːhì < à kân noːman =mù mukàn noːmà waːkeː |c mukàn noːmà masàr̃aː |c mukàn noːmà daːwàː //
-# text_en =  But thank God as for our farming, we farm.. beans, we farm maize, we farm guinea-corn.
+# text_en = But thank God as for our farming, we farm.. beans, we farm maize, we farm guinea-corn.
 1	àmmaː	àmmaː	CCONJ	_	_	9	discourse	_	AlignBegin=349929|AlignEnd=350196|Gloss=but
 2	àlhamdù	àlhamdù	X	_	Foreign=Yes	9	discourse	_	AlignBegin=350196|AlignEnd=350463|Gloss=alhamdu|Idiom=Yes|Lang=ar
 3	lìllaːhì	lìllaːhì	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=350463|AlignEnd=350730|Gloss=lìllaːhì|InIdiom=Yes|Lang=ar
@@ -2845,7 +2845,7 @@
 # sent_timecode = 355484, 358023
 # phonetic_text = àː / daːwàː / mukàn iyàː saːmù -n bùhuː kàman goːmà hakà /
 # text = àː < daːwàː < mukàn iyà saːmùn bùhuː kàman goːmà hakà //
-# text_en =  Ah, guinea-corn we get like ten sacks. _
+# text_en = Ah, guinea-corn we get like ten sacks. _
 1	àː	àː	INTJ	_	_	6	discourse	_	AlignBegin=355484|AlignEnd=355696|Gloss=FILL
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=355696|AlignEnd=355908|Gloss=PUNCT
 3	daːwàː	daːwàː	NOUN	_	_	6	dislocated	_	AlignBegin=355908|AlignEnd=356120|Gloss=guinea-corn
@@ -2865,7 +2865,7 @@
 # sent_timecode = 358616, 362620
 # phonetic_text = eː / masàr̃aː kuma / mukàn iyàː saːmù -n kàman bùhuː / àːːː / goːmà shâː bìyar̃ //
 # text = eː < masàr̃aː kuma < mukàn iyà saːmùn kàman bùhuː àː goːmà shâː bìyar̃ //
-# text_en =  Yes, as for maize we can get like ..er.. fifteen sacks.
+# text_en = Yes, as for maize we can get like ..er.. fifteen sacks.
 1	eː	eː	INTJ	_	_	7	discourse	_	AlignBegin=358616|AlignEnd=358838|Gloss=yes
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=358838|AlignEnd=359060|Gloss=PUNCT
 3	masàr̃aː	masàr̃aː	NOUN	_	_	7	dislocated	_	AlignBegin=359060|AlignEnd=359282|Gloss=maize
@@ -2888,7 +2888,7 @@
 # sent_timecode = 363040, 369248
 # phonetic_text = tòː / shiː wânnan noːmaː dà kukàn yi kukàn waɗànnan saːmù bùhuː -una / / kukàn sar̃r̃àfaː su nèː // kù fitar̃ dà su: / kù zuwàː can kàːsuwaː kù sayar̃ koː kùwa zaːsù zoː sù yi ta sàyeː à gidaː //
 # text = tòː < shiː wânnan noːmaː dà kukàn yi kukàn saːmù waɗànnan buhunàː kukàn sar̃r̃àfaː su nèː |c kù fitar̃ dà su: |c kù zoː can kàːsuwaː kù sayar̃ koː kùwa zaːsù zoː sù yi ta sàyeː à gidaː ?//
-# text_en =  Well that farming that you do and get those sacks, do you manage it yourself and take them to the market to sell or do they come and buy at home?
+# text_en = Well that farming that you do and get those sacks, do you manage it yourself and take them to the market to sell or do they come and buy at home?
 1	tòː	tòː	INTJ	_	_	14	discourse	_	AlignBegin=363040|AlignEnd=363210|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=363210|AlignEnd=363380|Gloss=PUNCT
 3	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	14	dislocated	_	AlignBegin=363380|AlignEnd=363550|Gloss=3Masc.Nom
@@ -2935,7 +2935,7 @@
 # sent_timecode = 368530, 369029
 # phonetic_text = àlhamdù lìllaːhì /
 # text = àlhamdù lìllaːhì !//
-# text_en =  Thank God.
+# text_en = Thank God.
 1	àlhamdù	àlhamdù	X	_	Foreign=Yes	0	root	_	AlignBegin=368530|AlignEnd=368696|Gloss=àlhamdù|Lang=ar
 2	lìllaːhì	lìllaːhì	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=368696|AlignEnd=368862|Gloss=lìllaːhì|Lang=ar
 3	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=368862|AlignEnd=369029|Gloss=PUNCT
@@ -2946,7 +2946,7 @@
 # sent_timecode = 369029, 371145
 # phonetic_text = mukàn ɗiːbàː -i a / adàɗiː -n wandà zaːmù iyàː cîː //
 # text = mukàn ɗìːbi a~ || adàɗîn wandà zaːmù iyà cîː //
-# text_en =  We take th. the part that we will eat.
+# text_en = We take th. the part that we will eat.
 1	mukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=1	2	aux	_	AlignBegin=369029|AlignEnd=369241|Gloss=1Plur.Hab
 2	ɗìːbi	ɗiːb-	VERB	_	_	0	root	_	AlignBegin=369241|AlignEnd=369347|Gloss=scoop_out
 3	a~	a~	X	_	_	5	reparandum	_	AlignBegin=369453|AlignEnd=369665|Gloss=X
@@ -2964,7 +2964,7 @@
 # sent_timecode = 371479, 374845
 # phonetic_text = ìdan mukà ɗiːbàː -i wandà zaːmù iyàː cîː / sai mù ɗàukaː -i sauraː / sai mù sayar̃ //
 # text = ìdan mukà ɗìːbi wandà zaːmù iyà cîː < sai mù ɗàuki sauraː |c sai mù sayar̃ //
-# text_en =  When we have taken what we can eat then we take the rest and we sell it.
+# text_en = When we have taken what we can eat then we take the rest and we sell it.
 1	ìdan	ìdan	SCONJ	_	_	11	dep	_	AlignBegin=371479|AlignEnd=371677|Gloss=if
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=371677|AlignEnd=371875|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	ɗìːbi	ɗiːb-	VERB	_	_	1	acl:relcl	_	AlignBegin=371875|AlignEnd=371974|Gloss=scoop_out
@@ -2989,7 +2989,7 @@
 # sent_timecode = 374845, 376450
 # phonetic_text = ìdan mukà sayar̃ / tòː / shiː nèː //
 # text = ìdan mukà sayar̃ < tòː < shiː nèː //
-# text_en =  When we have sold it, well that's it.
+# text_en = When we have sold it, well that's it.
 1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=374845|AlignEnd=375122|Gloss=if
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=375122|AlignEnd=375399|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	sayar̃	say-	VERB	_	_	8	advcl	_	AlignBegin=375399|AlignEnd=375676|Gloss=sell.Cau
@@ -3006,7 +3006,7 @@
 # sent_timecode = 376450, 378257
 # phonetic_text = suː kuma / mùtûm -a_e zaːsù zoː hakà sù sàyaː /
 # text = suː kuma < mutàːneː zaːsù zoː hakà sù sàyaː //
-# text_en =  They, people will come and buy it.
+# text_en = They, people will come and buy it.
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	dislocated	_	AlignBegin=376450|AlignEnd=376610|Gloss=2Plur.Nom
 2	kuma	kuma	PART	_	_	1	discourse	_	AlignBegin=376610|AlignEnd=376770|Gloss=also
 3	<	<	PUNCT	_	_	4	punct	_	AlignBegin=376770|AlignEnd=376931|Gloss=PUNCT
@@ -3024,7 +3024,7 @@
 # sent_timecode = 378257, 379462
 # phonetic_text = suː maː / sù saːmù -i àbù -ǹ dà zaːsù ci //
 # text = suː maː < sù sàːmi àbin dà zaːsù ci //
-# text_en =  and they also they get something to eat.
+# text_en = and they also they get something to eat.
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	dislocated	_	AlignBegin=378257|AlignEnd=378345|Gloss=2Plur.Nom
 2	maː	maː	PART	_	_	1	discourse	_	AlignBegin=378345|AlignEnd=378433|Gloss=even
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=378433|AlignEnd=378522|Gloss=PUNCT
@@ -3109,7 +3109,7 @@
 # sent_timecode = 380092, 380371
 # phonetic_text = mː //
 # text = mː //
-# text_en =  Mm.
+# text_en = Mm.
 1	mː	mː	INTJ	_	_	0	root	_	AlignBegin=380092|AlignEnd=380232|Gloss=BKL
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=380232|AlignEnd=380371|Gloss=PUNCT
 
@@ -3119,7 +3119,7 @@
 # sent_timecode = 391582, 394145
 # phonetic_text = à kàːfin wânnan loːkàciː / mukàn yi noːmaː -n raːniː //
 # text = à kàːfin wânnan loːkàciː < mukàn yi noːman raːniː //
-# text_en =  Before then, we do some dry season farming.
+# text_en = Before then, we do some dry season farming.
 1	à	à	ADP	_	ExtPos=ADP	4	case	_	AlignBegin=391582|AlignEnd=391838|Gloss=at|Idiom=Yes
 2	kàːfin	kàːfin	ADP	_	_	1	fixed	_	AlignBegin=391838|AlignEnd=392094|Gloss=before|InIdiom=Yes
 3	wânnan	wânnan	DET	_	Definite=Def	4	det	_	AlignBegin=392094|AlignEnd=392350|Gloss=Def
@@ -3137,7 +3137,7 @@
 # sent_timecode = 394442, 396720
 # phonetic_text = duk noːmaː -n raːniː -ǹ / baːmàː màː yîː -n -shi dà yawàː sòːsai //
 # text = duk noːman raːnîn < baːmàː yîn =shi dà yawàː sòːsai //
-# text_en =  All dry season farming, we don't do much.
+# text_en = All dry season farming, we don't do much.
 1	duk	dukà	DET	_	PronType=Tot	2	det	_	AlignBegin=394442|AlignEnd=394649|Gloss=all
 2	noːman	noːm-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	6	dislocated	_	AlignBegin=394649|AlignEnd=394753|Gloss=farm.Vnoun.Cons
 3	raːnîn	raːniː	NOUN	_	Definite=Def	2	compound	_	AlignBegin=394856|AlignEnd=394960|Gloss=dry_season.Def
@@ -3156,7 +3156,7 @@
 # sent_timecode = 397121, 398938
 # phonetic_text = dàliːlìː kòː shiː nèː / bâː ruwaː //
 # text = dàliːlìː koː shiː nèː >+ bâː ruwaː //
-# text_en =  The reason is there is no water.
+# text_en = The reason is there is no water.
 1	dàliːlìː	dàliːlìː	NOUN	_	_	4	dislocated	_	AlignBegin=397121|AlignEnd=397348|Gloss=cause
 2	koː	koː	PART	_	_	1	discourse	_	AlignBegin=397348|AlignEnd=397575|Gloss=as_for
 3	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	xcomp	_	AlignBegin=397575|AlignEnd=397802|Gloss=3Masc.Nom
@@ -3172,7 +3172,7 @@
 # sent_timecode = 399165, 400196
 # phonetic_text = bâː ràːfiː -uka sòːsai //
 # text = bâː raːfukàː sòːsai //
-# text_en =  There are not enough rivers.
+# text_en = There are not enough rivers.
 1	bâː	bâː	PART	_	Polarity=Neg	0	root	_	AlignBegin=399165|AlignEnd=399423|Gloss=Neg
 2	raːfukàː	ràːfiː	NOUN	_	Number=Plur	1	nsubj	_	AlignBegin=399423|AlignEnd=399552|Gloss=river.Plur
 3	sòːsai	sòːsai	ADV	_	_	1	advmod	_	AlignBegin=399681|AlignEnd=399939|Gloss=quite
@@ -3184,7 +3184,7 @@
 # sent_timecode = 400582, 405830
 # phonetic_text = ɗan ràːfiː -uka -ǹ dà mukèː dà shiː / duk ruwaː -n dà mukèː dà shiː / mukàn yi / ʔèʔè / riːjìyaː -oCi nèː hakà / à wajen / goːnaː \Plur -ǹ naːmù //
 # text = ɗan raːfukàn dà mukè dà shiː dun ruwan dà mukè dà shiː mukàn yi ʔèʔè riːjiyoːyiː nèː hakà à wajen gòːnàkîn naːmù //
-# text_en =  The little rivers that we have, all the water that we have, we do.. er.. wells, near our fields.
+# text_en = The little rivers that we have, all the water that we have, we do.. er.. wells, near our fields.
 1	ɗan	ɗan	ADJ	_	_	2	amod	_	AlignBegin=400582|AlignEnd=400763|Gloss=little
 2	raːfukàn	ràːfiː	NOUN	_	Definite=Def|Number=Plur	14	dislocated	_	AlignBegin=400763|AlignEnd=400823|Gloss=river.Plur.Def
 3	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=400944|AlignEnd=401125|Gloss=COMP
@@ -3215,7 +3215,7 @@
 # sent_timecode = 406061, 408720
 # phonetic_text = ìdan mukà cirèː wânnan / sai mù shuːkàː / na raːniː //
 # text = ìdan mukà cirè wânnan < sai mù shuːkà na raːniː //
-# text_en =  After we have drawn that (water) then we sow the dry season (crops).
+# text_en = After we have drawn that (water) then we sow the dry season (crops).
 1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=406061|AlignEnd=406283|Gloss=if
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=406283|AlignEnd=406505|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	cirè	cir-	VERB	_	_	8	advcl	_	AlignBegin=406505|AlignEnd=406727|Gloss=pull
@@ -3234,7 +3234,7 @@
 # sent_timecode = 409235, 413473
 # phonetic_text = shiː kuma wânnan na raːniː / dà shiː nèː mukèː saːmùː / shiː kuma akèː ɗan / saːmùː -n ɗan àbù \Plur -ǹ dà dai zaːʔà ci //
 # text = shiː kuma wânnan na raːniː < dà shiː nèː mukèː saːmùː //
-# text_en =  Those (crops) of the dry season indeed, that's what we earn with.
+# text_en = Those (crops) of the dry season indeed, that's what we earn with.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated	_	AlignBegin=409235|AlignEnd=409405|Gloss=3Masc.Nom
 2	kuma	kuma	PART	_	_	1	discourse	_	AlignBegin=409405|AlignEnd=409575|Gloss=also
 3	wânnan	wânnan	PRON	_	Definite=Def	1	appos	_	AlignBegin=409575|AlignEnd=409745|Gloss=Def
@@ -3274,7 +3274,7 @@
 # sent_timecode = 413473, 414841
 # phonetic_text = kaː sanìː dai ràːyuwaː -n zamaː -n yànzu //
 # text = kaː sanìː dai ràːyuwan zaman yànzu //
-# text_en =  You kow how life is now.
+# text_en = You kow how life is now.
 1	kaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=2	2	aux	_	AlignBegin=413473|AlignEnd=413668|Gloss=2Masc.Perf
 2	sanìː	sanìː	VERB	_	_	4	discourse	_	AlignBegin=413668|AlignEnd=413863|Gloss=know
 3	dai	dai	PART	_	_	2	discourse	_	AlignBegin=413863|AlignEnd=414058|Gloss=indeed
@@ -3289,7 +3289,7 @@
 # sent_timecode = 415769, 419430
 # phonetic_text = tòː yànzu indà kukèː noːmaː -n raːniː -ǹ / kukàn noːmàː kàman mèː neː dà mèː neː // à indà kukèː noːmaː -ǹ //
 # text = tòː yànzu indà kukèː noːman raːnîn < kukàn noːmàː kàman mèː neː dà mèː neː > à indà kukèː noːmân //
-# text_en =  Well now when you do dry season farming, what do you farm where you farm.
+# text_en = Well now when you do dry season farming, what do you farm where you farm.
 1	tòː	tòː	INTJ	_	_	9	discourse	_	AlignBegin=415769|AlignEnd=415937|Gloss=well
 2	yànzu	yànzu	ADV	_	_	9	advmod	_	AlignBegin=415937|AlignEnd=416105|Gloss=now
 3	indà	indà	ADV	_	PronType=Rel	9	advmod	_	AlignBegin=416105|AlignEnd=416273|Gloss=where
@@ -3318,7 +3318,7 @@
 # sent_timecode = 415196, 415542
 # phonetic_text = m̀ː //
 # text = m̀ː //
-# text_en =  Mm.
+# text_en = Mm.
 1	m̀ː	m̀ː	INTJ	_	_	0	root	_	AlignBegin=415196|AlignEnd=415369|Gloss=BKL
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=415369|AlignEnd=415542|Gloss=PUNCT
 
@@ -3328,7 +3328,7 @@
 # sent_timecode = 419430, 426940
 # phonetic_text = àː / à indà mukèː noːmaː -n raːniː / mukàn noːmàː kàman su latàs / mukàn noːmàː kàman su irìː -n su kaːbeːjìː / dà dai sauraː -n irìː -n -sù dà su tùmaːtìr̃ hakà //
 # text = àː < à indà mukèː noːman raːniː < mukàn noːmà kàman su latàs |c mukàn noːmà kàman su irìn su kaːbeːjìː |c dà heː saurân irìn su tùmaːtìr̃ hakà //
-# text_en =  Ah, where we do dry-season farming, we farm things like letuce, we farm things like cabbage, and other things like tomatoes.
+# text_en = Ah, where we do dry-season farming, we farm things like letuce, we farm things like cabbage, and other things like tomatoes.
 1	àː	àː	INTJ	_	_	10	discourse	_	AlignBegin=419430|AlignEnd=419672|Gloss=FILL
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=419672|AlignEnd=419914|Gloss=PUNCT
 3	à	à	ADP	_	_	4	case	_	AlignBegin=419914|AlignEnd=420156|Gloss=at
@@ -3366,7 +3366,7 @@
 # sent_timecode = 426940, 427788
 # phonetic_text = mukàn noːmàː //
 # text = mukàn noːmàː //
-# text_en =  We used to farm.
+# text_en = We used to farm.
 1	mukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=1	2	aux	_	AlignBegin=426940|AlignEnd=427223|Gloss=1Plur.Hab
 2	noːmàː	noːm-	VERB	_	_	0	root	_	AlignBegin=427223|AlignEnd=427506|Gloss=farm
 3	//	//	PUNCT	_	_	2	punct	_	AlignBegin=427506|AlignEnd=427788|Gloss=PUNCT
@@ -3377,7 +3377,7 @@
 # sent_timecode = 427788, 430184
 # phonetic_text = dan à wajeː -ǹ zân iyàː tunàː -waː loːkàciː -ǹ mài gidaː -n -mù sòːsai /
 # text = dan à wajên zân iyà tunàːwaː loːkàcin mài gidan =mù sòːsai //
-# text_en =  Because at that place, I remember, at that time, our father well.
+# text_en = Because at that place, I remember, at that time, our father well.
 1	dan	don	SCONJ	_	_	4	discourse	_	AlignBegin=427788|AlignEnd=428006|Gloss=because
 2	à	at	ADP	_	_	3	case	_	AlignBegin=428006|AlignEnd=428224|Gloss=at
 3	wajên	wajeː	NOUN	_	Definite=Def	4	obl	_	AlignBegin=428224|AlignEnd=428333|Gloss=place.Def
@@ -3397,7 +3397,7 @@
 # sent_timecode = 430184, 432363
 # phonetic_text = shiː wânnan ainihiː -n kàːwuː -ǹ nàːwa wandà mukèː zamaː à wajen -shi /
 # text = shiː wânnan ainihin kàːwûn nàːwa wandà mukèː zamaː à wajen =shì //
-# text_en =  He, that one, is my very uncle who I was staying with.
+# text_en = He, that one, is my very uncle who I was staying with.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	discourse	_	AlignBegin=430184|AlignEnd=430382|Gloss=3Masc.Nom
 2	wânnan	wânnan	DET	_	Definite=Def	1	appos	_	AlignBegin=430382|AlignEnd=430580|Gloss=Def
 3	ainihin	ainihiː	ADJ	_	Definite=Cons	4	amod	_	AlignBegin=430580|AlignEnd=430679|Gloss=real.Cons
@@ -3417,7 +3417,7 @@
 # sent_timecode = 432595, 432906
 # phonetic_text = eː /
 # text = eː //
-# text_en =  Yes
+# text_en = Yes
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=432595|AlignEnd=432751|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=432751|AlignEnd=432906|Gloss=PUNCT
 
@@ -3452,7 +3452,7 @@
 # sent_timecode = 437436, 443888
 # phonetic_text = yaː sàːmi àmfàːniː dòːmin à loːkàcîn < à || à loːkàcîn dà mun noːmàː shi < sai àmfàːnîn < ya zoː ya yi tsàːdaː //
 # text = yaː sàːmi àmfàːniː dòːmin à loːkàcîn < à || à loːkàcîn dà mun noːmàː shi < sai àmfàːnîn < ya zoː ya yi tsàːdaː //
-# text_en =  He made a profit because in that time, er.. er.. when we did that farming, then vegetables became very expensive.
+# text_en = He made a profit because in that time, er.. er.. when we did that farming, then vegetables became very expensive.
 1	yaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=3	2	aux	_	AlignBegin=437436|AlignEnd=437595|Gloss=3Masc.Perf
 2	sàːmi	saːm-	VERB	_	_	0	root	_	AlignBegin=437595|AlignEnd=437675|Gloss=get
 3	àmfàːniː	àmfàːniː	NOUN	_	_	2	obj	_	AlignBegin=437754|AlignEnd=437913|Gloss=profit
@@ -3485,7 +3485,7 @@
 # sent_timecode = 443888, 445659
 # phonetic_text = à loːkàciː -ǹ mùtûm -a_e nàː neːmaː -n tùmaːtìr̃ sòːsai //
 # text = à loːkàcîn mutàːneː nàː neːman tùmaːtìr̃ sòːsai //
-# text_en =  At that time people were seriously looking for tomatoes.
+# text_en = At that time people were seriously looking for tomatoes.
 1	à	à	ADP	_	_	2	case	_	AlignBegin=443888|AlignEnd=444109|Gloss=at
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	5	obl	_	AlignBegin=444109|AlignEnd=444219|Gloss=time.Def
 3	mutàːneː	mùtûm	NOUN	_	Number=Plur	5	nsubj	_	AlignBegin=444330|AlignEnd=444440|Gloss=person.Plur
@@ -3501,7 +3501,7 @@
 # sent_timecode = 445882, 447402
 # phonetic_text = ya zoː manà kuma kai / gaf dà sallàː
 # text = ya zoː manà kuma kai < gaf dà sallàː //
-# text_en =  And we got them well, near the ramadan celebrations.
+# text_en = And we got them well, near the ramadan celebrations.
 1	ya	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Masc|Person=3	2	aux	_	AlignBegin=445882|AlignEnd=446051|Background=Yes|Gloss=3Masc.Perf.Bkg
 2	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=446051|AlignEnd=446220|Gloss=come
 3	manà	manà	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	AlignBegin=446220|AlignEnd=446389|Gloss=1Plur
@@ -3519,7 +3519,7 @@
 # sent_timecode = 448240, 451761
 # phonetic_text = wàːtòː -ǹ yaː kasànceː cêːwaː dai in kukà gamàː neːmaː -n raːniː / kukàn yi noːmaː -n || noːmaː -n &//
 # text = wàːtòn yaː kasànceː cêːwaː dai in kukà gamà noːman raːniː < kukàn yi noːman || noːman &//
-# text_en =  that is to say when you finished the dry season farming, you were doing that dry season farming... that dry season farming…
+# text_en = that is to say when you finished the dry season farming, you were doing that dry season farming... that dry season farming…
 1	wàːtòn	wàːtòː	PART	_	_	3	discourse	_	AlignBegin=448240|AlignEnd=448332|Gloss=that_is
 2	yaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=3	3	aux	_	AlignBegin=448425|AlignEnd=448610|Gloss=3Masc.Perf|Scrap=Yes
 3	kasànceː	kasànceː	VERB	_	_	0	root	_	AlignBegin=448610|AlignEnd=448795|Gloss=become
@@ -3544,7 +3544,7 @@
 # sent_timecode = 451761, 456287
 # phonetic_text = ìdan kukà gamàː noːmaː -n kàːkaː kukàn yi noːmaː -n raːniː // wandà shiː nèː yakàn sâː kuɗiː // bàː irìː -n su tùmaːtìr̃ dà sauraː -n -sù //
 # text = ìdan kukà gamà noːman kàːkaː kukàn yi noːman raːniː wandà shiː nèː yakàn sâː kuɗiː ?//
-# text_en =  When you finished rain season farming, you did dry season farming which brought money.
+# text_en = When you finished rain season farming, you did dry season farming which brought money.
 1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=451761|AlignEnd=451953|Gloss=if
 2	kukà	_	AUX	kèː/kà	Aspect=ProgBkg|Number=Plur|Person=2	3	aux	_	AlignBegin=451953|AlignEnd=452145|Background=Yes|Gloss=2Plur.Prog.Bkg
 3	gamà	gamàː	VERB	_	_	7	advcl	_	AlignBegin=452145|AlignEnd=452337|Gloss=finish
@@ -3584,7 +3584,7 @@
 # sent_timecode = 456477, 460363
 # phonetic_text = tòː shiː wânnan dà kukà ɗiːbàː shiː maː kukàn kai shi kàːsuwaː nèː / koːkòː kukàn baːyar̃ -shi à gidaː nèː dòːmin kù dingàː àmfàːniː dà shiː / /
 # text = tòː shiː wânnan dà kukà ɗiːbàː shiː maː kukàn kai shì kàːsuwaː nèː |c koːkòː kukàn baːyar̃ shì à gidaː nèː dòːmin kù dingà àmfàːniː dà shiː //
-# text_en =  Well what you were getting, did you take it to the market, or did you take it home to keep using it?
+# text_en = Well what you were getting, did you take it to the market, or did you take it home to keep using it?
 1	tòː	tòː	INTJ	_	_	10	discourse	_	AlignBegin=456477|AlignEnd=456616|Gloss=well
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	dislocated	_	AlignBegin=456616|AlignEnd=456755|Gloss=3Masc.Nom
 3	wânnan	wânnan	PRON	_	Definite=Def	2	appos	_	AlignBegin=456755|AlignEnd=456894|Gloss=Def
@@ -3620,7 +3620,7 @@
 # sent_timecode = 455420, 455722
 # phonetic_text = eː //
 # text = eː //
-# text_en =  Yes.
+# text_en = Yes.
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=455420|AlignEnd=455571|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=455571|AlignEnd=455722|Gloss=PUNCT
 
@@ -3630,7 +3630,7 @@
 # sent_timecode = 460055, 462266
 # phonetic_text = àːːː / yawanciː maː / bàmù cikà àmfàːniː dà shiː ba sòːsai //
 # text = àː < yawanciː maː < bàmù cikà àmfàːniː dà shiː ba sòːsai //
-# text_en =  Er.. most of it, we did not really use it.
+# text_en = Er.. most of it, we did not really use it.
 1	àː	àː	INTJ	_	_	7	discourse	_	AlignBegin=460055|AlignEnd=460225|Gloss=FILL
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=460225|AlignEnd=460395|Gloss=PUNCT
 3	yawanciː	yawanciː	NOUN	_	_	7	obl	_	AlignBegin=460395|AlignEnd=460565|Gloss=majority
@@ -3651,7 +3651,7 @@
 # sent_timecode = 462582, 467244
 # phonetic_text = dan muː ìdan mukà ɗiːbàː / munàː zuwàː dà shiː nèː // èːːː àːːː &// &// gùndumàn basaːwa //
 # text = dan muː ìdan mukà ɗiːbàː < munàː zuwàː dà shiː nèː èː à Gùndumàn Basaːwa //
-# text_en =  Because after we have harvested, we took it er.. to Gunduman Basawa.
+# text_en = Because after we have harvested, we took it er.. to Gunduman Basawa.
 1	dan	don	SCONJ	_	_	8	discourse	_	AlignBegin=462582|AlignEnd=462827|Gloss=because
 2	muː	muː	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	dislocated	_	AlignBegin=462827|AlignEnd=463072|Gloss=1Plur.Nom
 3	ìdan	ìdan	SCONJ	_	_	5	mark	_	AlignBegin=463072|AlignEnd=463317|Gloss=if
@@ -3675,7 +3675,7 @@
 # sent_timecode = 467537, 469186
 # phonetic_text = ìdan mukà jeː dà shiː mukà kai mà gùndumàn basaːwa / /
 # text = ìdan mukà jeː dà shiː mukà kai mà Gùndumàn Basaːwa //
-# text_en =  When we move it, we take it to Gunduman Basawa.
+# text_en = When we move it, we take it to Gunduman Basawa.
 1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=467537|AlignEnd=467674|Gloss=if
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=467674|AlignEnd=467811|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	jeː	jeːyàː	VERB	_	_	7	advcl	_	AlignBegin=467811|AlignEnd=467948|Gloss=go
@@ -3694,7 +3694,7 @@
 # sent_timecode = 469186, 471450
 # phonetic_text = àkwai wata tsoːhuwaː / wandà ita suːnaː -n -tà / bàːsà //
 # text = àkwai wata tsoːhuwaː wandà ita suːnan =tà Bàːsà //
-# text_en =  There is one old woman, named Basa.
+# text_en = There is one old woman, named Basa.
 1	àkwai	àkwai	PART	_	_	0	root	_	AlignBegin=469186|AlignEnd=469412|Gloss=there_is
 2	wata	wata	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	3	det	_	AlignBegin=469412|AlignEnd=469638|Gloss=some.Fem
 3	tsoːhuwaː	tsoːhuwaː	NOUN	_	ExtPos=NOUN	1	nsubj	_	AlignBegin=469638|AlignEnd=469864|Gloss=old_woman
@@ -3711,7 +3711,7 @@
 # sent_timecode = 472148, 472305
 # phonetic_text = yauwàː //
 # text = yauwàː //
-# text_en =  OK.
+# text_en = OK.
 1	yauwàː	yauwàː	INTJ	_	_	0	root	_	AlignBegin=472148|AlignEnd=472226|Gloss=ok
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=472226|AlignEnd=472305|Gloss=PUNCT
 
@@ -3721,7 +3721,7 @@
 # sent_timecode = 472305, 477777
 # phonetic_text = ita suːnaː -n wânnan tsoːhuwaː / ìdan zân iyàː tunàː -wàː / shiː nèː dàliːlìː -ǹ dà ya sâː akà saːmoː mà ita kâi -n -tà dà basaːwa suːnaː //
 # text = ita suːnan wânnan tsoːhuwaː < ìdan zân iyà tunàːwaː < shiː nèː dàliːlìn dà ya sâː akà saːmoː mà ita kântà dà Basaːwaː suːnaː //
-# text_en =  she, the name of that old woman if I remember well that's the reason why they got from her herself, the name of Basawa.
+# text_en = she, the name of that old woman if I remember well that's the reason why they got from her herself, the name of Basawa.
 1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	12	dislocated	_	AlignBegin=472305|AlignEnd=472524|Gloss=3Fem.Nom
 2	suːnan	suːnaː	NOUN	_	Definite=Cons	12	dislocated	_	AlignBegin=472524|AlignEnd=472634|Gloss=name.Cons
 3	wânnan	wânnan	DET	_	Definite=Def	4	det	_	AlignBegin=472743|AlignEnd=472962|Gloss=Def
@@ -3783,7 +3783,7 @@
 # sent_timecode = 482646, 484870
 # phonetic_text = ma- zaunàː -iː\HLH -n gàriː -n fallàːdân kàman yandà na taɓàː faɗìː -ǹ makà à farkoː //
 # text = mazàunin gàrin Pallàːdân kàman yandà na taɓà faɗìn makà à farkoː //
-# text_en =  I live in Palladan as I told you at first.
+# text_en = I live in Palladan as I told you at first.
 1	mazàunin	mazàuniː	NOUN	_	Definite=Cons	0	root	_	AlignBegin=482646|AlignEnd=482692|Gloss=inhabitant.Cons
 2	gàrin	gàriː	NOUN	_	Definite=Cons	1	nmod	_	AlignBegin=482831|AlignEnd=482923|Gloss=town.Cons
 3	Pallàːdân	Pallàːdân	PROPN	_	_	2	nmod	_	AlignBegin=483016|AlignEnd=483201|Gloss=Palladan|wordform=fallàːdân
@@ -3803,7 +3803,7 @@
 # sent_timecode = 487167, 487446
 # phonetic_text = eː //
 # text = eː //
-# text_en =  Yes.
+# text_en = Yes.
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=487167|AlignEnd=487307|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=487307|AlignEnd=487446|Gloss=PUNCT
 
@@ -3813,7 +3813,7 @@
 # sent_timecode = 484507, 487048
 # phonetic_text = wàːtòː / ita wânnan bàːsa -ǹ / ta nan nèː akà saːmoː basaːwa //
 # text = wàːtòː < ita wânnan Bàːsân < ta nan nèː akà saːmoː Basaːwa ?//
-# text_en =  That is, she, that Basa is that where the (name) Basawa comes from?
+# text_en = That is, she, that Basa is that where the (name) Basawa comes from?
 1	wàːtòː	wàːtòː	PART	_	_	9	discourse	_	AlignBegin=484507|AlignEnd=484702|Gloss=that_is_to_say
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=484702|AlignEnd=484897|Gloss=PUNCT
 3	ita	ita	PRON	_	Gender=Fem|Person=3|PronType=Prs	9	dislocated	_	AlignBegin=484897|AlignEnd=485092|Gloss=3Fem.Nom
@@ -3834,7 +3834,7 @@
 # sent_timecode = 487567, 489497
 # phonetic_text = ita wânnan bàːsa -ǹ / àkwai &//
 # text = ita wânnan Bàːsân < àkwai &//
-# text_en =  She, that Basan, There is ..
+# text_en = She, that Basan, There is ..
 1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	dislocated	_	AlignBegin=487567|AlignEnd=487820|Gloss=3Fem.Nom
 2	wânnan	wânnan	DET	_	Definite=Def	3	det	_	AlignBegin=487820|AlignEnd=488073|Gloss=Def
 3	Bàːsân	Bàːsa	PROPN	_	Definite=Def	1	appos	_	AlignBegin=488073|AlignEnd=488199|Gloss=Basa.Def
@@ -3848,7 +3848,7 @@
 # sent_timecode = 489497, 490444
 # phonetic_text = XX nàː dà ƴaː \Plur /
 # text = X nàː dà ƴaːƴaː //
-# text_en =  X has children.
+# text_en = X has children.
 1	X	X	X	_	_	4	dep	_	AlignBegin=489497|AlignEnd=489686|Gloss=X|Scrap=Yes
 2	nàː	_	AUX	nàː	Aspect=Prog	4	cop	_	AlignBegin=489686|AlignEnd=489875|Gloss=Pred/Loc
 3	dà	dà	ADP	_	_	4	case	_	AlignBegin=489875|AlignEnd=490064|Gloss=with
@@ -3861,7 +3861,7 @@
 # sent_timecode = 490444, 490975
 # phonetic_text = ƴaː \Plur -ǹ suː nèː /
 # text = ƴaːƴân suː nèː //
-# text_en =  They are the children.
+# text_en = They are the children.
 1	ƴaːƴân	ɗaː	NOUN	_	Definite=Def|Number=Plur	3	nsubj	_	AlignBegin=490444|AlignEnd=490488|Gloss=child.Plur.Def
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	xcomp	_	AlignBegin=490577|AlignEnd=490710|Gloss=2Plur.Nom
 3	nèː	neː/naː	PART	_	_	0	root	_	AlignBegin=490710|AlignEnd=490843|Gloss=Ident/Foc
@@ -3873,7 +3873,7 @@
 # sent_timecode = 490975, 492726
 # phonetic_text = inàː ganiː àkwai su àdàːmu / sai mustàfa /
 # text = inàː ganiː àkwai su Àdàːmu |c sai Mustàfa //
-# text_en =  I think there is Adamu, then Mustapha.
+# text_en = I think there is Adamu, then Mustapha.
 1	inàː	_	AUX	nàː	Aspect=Prog|Number=Sing|Person=1	2	aux	_	AlignBegin=490975|AlignEnd=491165|Gloss=1Sing.Prog
 2	ganiː	ganiː	VERB	_	_	0	root	_	AlignBegin=491165|AlignEnd=491355|Gloss=see
 3	àkwai	àkwai	PART	_	_	2	dep	_	AlignBegin=491355|AlignEnd=491545|Gloss=there_is
@@ -3890,7 +3890,7 @@
 # sent_timecode = 492726, 493578
 # phonetic_text = suː nèː ƴaː \Plur -ǹ naːtà //
 # text = suː nèː ƴaːƴân naːtà //
-# text_en =  Those are her children.
+# text_en = Those are her children.
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	xcomp	_	AlignBegin=492726|AlignEnd=492896|Gloss=2Plur.Nom
 2	nèː	neː/naː	PART	_	_	0	root	_	AlignBegin=492896|AlignEnd=493066|Gloss=Ident/Foc
 3	ƴaːƴân	ɗaː	NOUN	_	Definite=Def|Number=Plur	2	dislocated	_	AlignBegin=493066|AlignEnd=493123|Gloss=child.Plur.Def
@@ -3903,7 +3903,7 @@
 # sent_timecode = 493894, 496210
 # phonetic_text = tòː / cikin wânnan / ai shiː nèː / suːnaː -ǹ naːtà / suːnaː -n -tà ita / suːnaː -n -tà bàːsa //
 # text = tòː < cikin wânnan < ai shiː nèː suːnân naːtà //
-# text_en =  Well among those, eh, it's her name.
+# text_en = Well among those, eh, it's her name.
 1	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=493894|AlignEnd=494087|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=494087|AlignEnd=494280|Gloss=PUNCT
 3	cikin	cikin	ADP	_	_	4	case	_	AlignBegin=494280|AlignEnd=494473|Gloss=inside
@@ -3938,7 +3938,7 @@
 # sent_timecode = 497840, 499580
 # phonetic_text = tòː bàːsa -ǹ nan / shiː nèː akà saːmoː / basaːwa //
 # text = tòː Bàːsân nan < shiː nèː akà saːmoː Basaːwaː //
-# text_en =  Well that Basa that's where we got Basawa from.
+# text_en = Well that Basa that's where we got Basawa from.
 1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=497840|AlignEnd=498014|Gloss=well
 2	Bàːsân	Bàːsa	PROPN	_	Definite=Def	6	dislocated	_	AlignBegin=498014|AlignEnd=498101|Gloss=Basa.Def
 3	nan	nan	DET	_	Definite=Def	2	det	_	AlignBegin=498188|AlignEnd=498362|Gloss=Def
@@ -3956,7 +3956,7 @@
 # sent_timecode = 500390, 505639
 # phonetic_text = tòː ta dàliːlìntà ɗîn < kaː san suːnàːyeː |a irìn na mutàːnen dâː |a irìn na tsòːfàffiː << èː tòː / shiː nèː / sai akà saːmoː Bàːsa //
 # text = tòː ta dàliːlìn =tà ɗîn < kaː san suːnàːyeː |a irìn na mutàːnen dâː |a irìn na tsòːfàffiː < eː tòː < shiː nèː < sai akà saːmoː Bàːsa //
-# text_en =  You know, names like those of people of old times, like old people's names, well then we got (the name) Basa.
+# text_en = You know, names like those of people of old times, like old people's names, well then we got (the name) Basa.
 1	tòː	tòː	INTJ	_	_	28	discourse	_	AlignBegin=500390|AlignEnd=500586|Gloss=well
 2	ta	ta	ADP	_	_	3	case	_	AlignBegin=500586|AlignEnd=500779|Gloss=via
 3	dàliːlìn	dàliːlìː	NOUN	_	Definite=Cons	28	dislocated	_	AlignBegin=500779|AlignEnd=500843|Gloss=cause.Cons|wordform=dàliːlìː
@@ -3994,7 +3994,7 @@
 # sent_timecode = 505639, 509343
 # phonetic_text = ita wânnan bàːsa / suːnaː -n -tà / aʔàːːː &// èːʔèː &// ^XXX suːnaː -n -tà bàːsa //
 # text = ita wânnan Bàːsa < suːnan =tà || aʔàːːː < èːʔèː < suːnan =tà Bàːsa //
-# text_en =  She that Basa her name.. er.. er.. X her name was Basa.
+# text_en = She that Basa her name.. er.. er.. X her name was Basa.
 1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	14	dislocated	_	AlignBegin=505639|AlignEnd=505904|Gloss=3Fem.Nom
 2	wânnan	wânnan	DET	_	Definite=Def	3	det	_	AlignBegin=505904|AlignEnd=506169|Gloss=Def
 3	Bàːsa	Bàːsa	PROPN	_	_	1	appos	_	AlignBegin=506169|AlignEnd=506434|Gloss=Basa
@@ -4017,7 +4017,7 @@
 # sent_timecode = 509343, 511340
 # phonetic_text = ita wânnan tsoːhuwaː -ǹ / shiː nèː ya sâː akà saːmoː gàriː basaːwa //
 # text = ita wânnan tsoːhuwân shiː nèː ya sâː akà saːmoː gàriː Basaːwa //
-# text_en =  She that old woman that's why we got the village of Basawa.
+# text_en = She that old woman that's why we got the village of Basawa.
 1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	obl	_	AlignBegin=509343|AlignEnd=509497|Gloss=3Fem.Nom
 2	wânnan	wânnan	DET	_	Definite=Def	3	det	_	AlignBegin=509497|AlignEnd=509651|Gloss=Def
 3	tsoːhuwân	tsoːhuwaː	NOUN	_	Definite=Def|ExtPos=NOUN	1	appos	_	AlignBegin=509651|AlignEnd=509728|Gloss=old_woman.Def
@@ -4037,7 +4037,7 @@
 # sent_timecode = 511688, 513114
 # phonetic_text = tòː / shiː nèː dàliːlìː -ǹ dà akà saːmoː gàriː basaːwa //
 # text = tòː shiː nèː dàliːlìn dà akà saːmoː gàriː Basaːwaː //
-# text_en =  Well, that's why we have the village of Basawa.
+# text_en = Well, that's why we have the village of Basawa.
 1	tòː	tòː	INTJ	_	_	3	discourse	_	AlignBegin=511688|AlignEnd=511818|Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	xcomp	_	AlignBegin=511948|AlignEnd=512078|Gloss=3Masc.Nom
 3	nèː	neː/naː	PART	_	_	0	root	_	AlignBegin=512078|AlignEnd=512208|Gloss=Ident/Foc
@@ -4055,7 +4055,7 @@
 # sent_timecode = 513114, 520029
 # phonetic_text = ita su wânnan bàːsa / sànaːʔàː -n -ta / shiː nèː irìː irìː // saidàː irìː -ǹ / tsoːhoː \Plur -n tùmaːtìr̃ / dà irìː -n su joːgaleː / irìː -n su ramàː / dà dai sauraː -n -sù //
 # text = ita su wânnan Bàːsa < sànaːʔàn =tà < shiː nèː irìː-irìː |a sai dà irìn tsòːfàffin tùmaːtìr̃ |c dà irìn su joːgaleː |c irìn su ramàː |c dà dai sauran =sù //
-# text_en =  She, that Basa, her job it's all sorts, like old tomatoes, like zogale, like hemp, etc.
+# text_en = She, that Basa, her job it's all sorts, like old tomatoes, like zogale, like hemp, etc.
 1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	10	dislocated	_	AlignBegin=513114|AlignEnd=513322|Gloss=3Fem.Nom
 2	su	su	DET	_	Number=Plur	4	det	_	AlignBegin=513322|AlignEnd=513530|Gloss=Plur
 3	wânnan	wânnan	DET	_	Definite=Def	4	det	_	AlignBegin=513530|AlignEnd=513738|Gloss=Def
@@ -4095,7 +4095,7 @@
 # sent_timecode = 520029, 527622
 # phonetic_text = tòː / shiː wânnan gùndumàː na basaːwa / àkwai ràːfiː \Plur nèː dà yawàː dà kukèː saːmùː -n ruwaː kukèː XX dà àmfàːniː -n -ku // koːkòː kukàn jeː wani wuriː nèː kù ɗiːboː ruwaː / kù zoː kù yi àmfàːniː dà shiː à nân //
 # text = tòː < shiː wânnan gùndumàː na Basaːwaː < àkwai raːfuffukàː nèː dà yawàː dà kukèː saːmùn ruwaː kukè dà àmfàːnin =ku |c koːkòː kukàn jeː wani wuriː nèː kù ɗiːboː ruwaː |c kù zoː kù yi àmfàːniː dà shiː à nân ?//
-# text_en =  Well that district of Basawa, do you have many rivers where you get water to water your plantations, or do you go somewhere else to get water and use it there?
+# text_en = Well that district of Basawa, do you have many rivers where you get water to water your plantations, or do you go somewhere else to get water and use it there?
 1	tòː	tòː	INTJ	_	_	9	discourse	_	AlignBegin=520029|AlignEnd=520210|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=520210|AlignEnd=520391|Gloss=PUNCT
 3	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	9	dislocated	_	AlignBegin=520391|AlignEnd=520481|Gloss=3Masc.Nom
@@ -4145,7 +4145,7 @@
 # sent_timecode = 527057, 528135
 # phonetic_text = eː àlhamdù lìllaːhì /
 # text = eː àlhamdù lìllaːhì !//
-# text_en =  Yes thank God!
+# text_en = Yes thank God!
 1	eː	eː	INTJ	_	_	2	discourse	_	AlignBegin=527057|AlignEnd=527327|Gloss=yes
 2	àlhamdù	àlhamdː	X	_	Foreign=Yes	0	root	_	AlignBegin=527327|AlignEnd=527597|Gloss=àlhamdù
 3	lìllaːhì	lìllaːhì	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=527597|AlignEnd=527867|Gloss=lìllaːhì
@@ -4157,7 +4157,7 @@
 # sent_timecode = 528135, 529760
 # phonetic_text = mukàn yi àmfàːniː dà wânnan &//
 # text = mukàn yi àmfàːniː dà wânnan &//
-# text_en =  we use that..
+# text_en = we use that..
 1	mukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=1	2	aux	_	AlignBegin=528135|AlignEnd=528406|Gloss=1Plur.Hab|Scrap=Yes
 2	yi	yi	VERB	_	_	0	root	_	AlignBegin=528406|AlignEnd=528677|Gloss=do
 3	àmfàːniː	àmfàːniː	NOUN	_	_	2	obj	_	AlignBegin=528677|AlignEnd=528948|Gloss=use
@@ -4171,7 +4171,7 @@
 # sent_timecode = 529760, 532769
 # phonetic_text = àkwai ràːfiː / gùdaː ɗaya / wandà yakèː shiː nèː ya ɗiːbàː //
 # text = àkwai ràːfiː gùdaː ɗaya wandà yakè shiː nèː ya ɗiːbàː //
-# text_en =  There is a river, which he was using.
+# text_en = There is a river, which he was using.
 1	àkwai	àkwai	PART	_	_	0	root	_	AlignBegin=529760|AlignEnd=529991|Gloss=there_is
 2	ràːfiː	ràːfiː	NOUN	_	_	1	nsubj	_	AlignBegin=529991|AlignEnd=530222|Gloss=river
 3	gùdaː	gùdaː	NUM	_	_	2	nummod	_	AlignBegin=530453|AlignEnd=530684|Gloss=unit
@@ -4190,7 +4190,7 @@
 # sent_timecode = 533128, 534738
 # phonetic_text = ràːfiː shiː nèː ya tahoː dàgà basaːwa /
 # text = ràːfiː shiː nèː ya tahoː dàgà Basaːwa //
-# text_en =  The river is the one that starts in Basawa.
+# text_en = The river is the one that starts in Basawa.
 1	ràːfiː	ràːfiː	NOUN	_	_	3	dislocated	_	AlignBegin=533128|AlignEnd=533329|Gloss=river
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	xcomp	_	AlignBegin=533329|AlignEnd=533530|Gloss=3Masc.Nom
 3	nèː	neː/naː	PART	_	_	0	root	_	AlignBegin=533530|AlignEnd=533731|Gloss=Ident/Foc
@@ -4206,7 +4206,7 @@
 # sent_timecode = 535025, 536575
 # phonetic_text = ya tahoː ya jeː / ùngwaː -n riːmiː /
 # text = ya tahoː ya jeː |c Ùngwan Riːmiː //
-# text_en =  it starts and goes to.. Ungwan Rimi.
+# text_en = it starts and goes to.. Ungwan Rimi.
 1	ya	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Masc|Person=3	2	aux	_	AlignBegin=535025|AlignEnd=535219|Background=Yes|Gloss=3Masc.Perf.Bkg
 2	tahoː	tahoː	VERB	_	_	0	root	_	AlignBegin=535219|AlignEnd=535413|Gloss=go.DIR
 3	ya	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Masc|Person=3	4	aux	_	AlignBegin=535413|AlignEnd=535607|Background=Yes|Gloss=3Masc.Perf.Bkg
@@ -4222,7 +4222,7 @@
 # sent_timecode = 536828, 539295
 # phonetic_text = ya wucèː ùngwaː -n riːmiː / ya shìga ta saːkà daːɗiː /
 # text = ya wucèː Ùngwan Riːmiː |c ya shìga ta Saːkà Daːɗiː //
-# text_en =  it goes past Unguwan Rimi it goes through Saka Dadi.
+# text_en = it goes past Unguwan Rimi it goes through Saka Dadi.
 1	ya	_	AUX	sukà/sunkà	Aspect=PerfBkg|Gender=Masc|Person=3	2	aux	_	AlignBegin=536828|AlignEnd=537052|Background=Yes|Gloss=3Masc.Perf.Bkg
 2	wucèː	wucèː	VERB	_	_	0	root	_	AlignBegin=537052|AlignEnd=537276|Gloss=pass_by
 3	Ùngwan	Ùngwan	PROPN	_	Definite=Cons	2	obj	_	AlignBegin=537276|AlignEnd=537388|Gloss=ward.Cons
@@ -4260,7 +4260,7 @@
 # sent_timecode = 542007, 545528
 # phonetic_text = tòː / wânnan ruwaː / dà shiː nèː mukèː àmfàːniː / mukèː saːmùː / mukèː noːmaː -n raːniː //
 # text = tòː < wânnan ruwaː < dà shiː nèː mukèː àmfàːniː |c mukèː saːmùː |c mukèː noːman raːniː //
-# text_en =  Well that water that's the one we use we get and we do dry season farming.
+# text_en = Well that water that's the one we use we get and we do dry season farming.
 1	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=542007|AlignEnd=542212|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=542212|AlignEnd=542417|Gloss=PUNCT
 3	wânnan	wânnan	DET	_	Definite=Def	4	det	_	AlignBegin=542417|AlignEnd=542622|Gloss=Def
@@ -4286,7 +4286,7 @@
 # sent_timecode = 545950, 549100
 # phonetic_text = ìdan mukà yi noːmaː -n raːniː -ǹ / dai / ta nan wajeː -ǹ mukàn ɗiːbàː //
 # text = ìdan mukà yi noːman raːnîn dai < ta nan wajên mukàn ɗiːbàː //
-# text_en =  When we do dry season farming, indeed.. it's around that place that we draw (water).
+# text_en = When we do dry season farming, indeed.. it's around that place that we draw (water).
 1	ìdan	ìdan	SCONJ	_	_	9	dep	_	AlignBegin=545950|AlignEnd=546175|Gloss=if
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=546175|AlignEnd=546400|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	yi	yi	VERB	_	_	1	acl:relcl	_	AlignBegin=546400|AlignEnd=546625|Gloss=do
@@ -4307,7 +4307,7 @@
 # sent_timecode = 549100, 556434
 # phonetic_text = tòː / à / waːːː / wani loːkàciː / ìdan / < esfecia > &// kàman irìː -n wannàn yanàːyiː dà akà yi na iskàː / tòː kaː ganiː / àbù -ǹ yakàn ƙoːnèː /
 # text = tòː < à wa~ || wani loːkàciː < ìdan < especia~ kàman irìn wannàn yanàːyiː dà akà yi na iskàː < tòː kaː ganiː < àbîn yakàn ƙoːnèː //
-# text_en =  Well, ah, so.. sometimes, if.. specia.. like that time when there is a dry wind, well you see.. things dry up.
+# text_en = Well, ah, so.. sometimes, if.. specia.. like that time when there is a dry wind, well you see.. things dry up.
 1	tòː	tòː	INTJ	_	_	28	discourse	_	AlignBegin=549100|AlignEnd=549254|Gloss=well
 2	<	<	PUNCT	_	_	7	punct	_	AlignBegin=549254|AlignEnd=549409|Gloss=PUNCT
 3	à	à	ADP	_	_	7	case	_	AlignBegin=549409|AlignEnd=549536|Gloss=at
@@ -4344,7 +4344,7 @@
 # sent_timecode = 556434, 557818
 # phonetic_text = yànzu maː màganàː -ǹ dà akèː yîː yaː ƙoːnèː /
 # text = yànzu maː màganàn dà akèː yîː yaː ƙoːnèː //
-# text_en =  Now, what we are talking about (=the river) is all dried up.
+# text_en = Now, what we are talking about (=the river) is all dried up.
 1	yànzu	yànzu	ADV	_	_	8	advmod	_	AlignBegin=556434|AlignEnd=556588|Gloss=now
 2	maː	maː	PART	_	_	1	discourse	_	AlignBegin=556588|AlignEnd=556742|Gloss=even
 3	màganàn	màganàː	NOUN	_	Definite=Def	8	nsubj	_	AlignBegin=556742|AlignEnd=556819|Gloss=speech.Def
@@ -4361,7 +4361,7 @@
 # sent_timecode = 557818, 558818
 # phonetic_text = tòː mukàn yi riːjìyaː -oCi //
 # text = tòː mukàn yi riːjiyoːyiː //
-# text_en =  Well we dig wells.
+# text_en = Well we dig wells.
 1	tòː	tòː	INTJ	_	_	3	discourse	_	AlignBegin=557818|AlignEnd=558018|Gloss=well
 2	mukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=1	3	aux	_	AlignBegin=558018|AlignEnd=558218|Gloss=1Plur.Hab
 3	yi	yi	VERB	_	_	0	root	_	AlignBegin=558218|AlignEnd=558418|Gloss=do
@@ -4374,7 +4374,7 @@
 # sent_timecode = 559270, 561995
 # phonetic_text = ìdan mukà yi waɗànnan riːjìyaː -oCi / shiː nèː sai mukèː ɗiːboː ruwaː -ǹ //
 # text = ìdan mukà yi waɗànnan riːjiyoːyiː < shiː nèː sai mukèː ɗiːboː ruwân //
-# text_en =  When we have dug those wells, that's where we draw water.
+# text_en = When we have dug those wells, that's where we draw water.
 1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=559270|AlignEnd=559478|Gloss=if
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=559478|AlignEnd=559686|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	yi	yi	VERB	_	_	11	advcl	_	AlignBegin=559686|AlignEnd=559894|Gloss=do
@@ -4395,7 +4395,7 @@
 # sent_timecode = 562427, 565151
 # phonetic_text = ìdan mukà ɗiːbàː dà jènèr̃etòː / shiː mukèː bâː su wânnan ruwaː -ǹ kèː nan //
 # text = ìdan mukà ɗiːbàː dà jènèr̃etòː < shiː mukèː baː sù wânnan ruwân kèːnan //
-# text_en =  When we draw it with a generator then we use it to water.
+# text_en = When we draw it with a generator then we use it to water.
 1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=562427|AlignEnd=562643|Gloss=if
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=562643|AlignEnd=562859|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	ɗiːbàː	ɗiːbàː	VERB	_	_	7	acl	_	AlignBegin=562859|AlignEnd=563075|Gloss=scoop_out
@@ -4417,7 +4417,7 @@
 # sent_timecode = 565151, 567828
 # phonetic_text = tòː yàyàː kukèː dà / dabbàː -oCi kuma / ma- kiyàːyeː -aː\HLH //
 # text = tòː yàː kukèː dà dabboːbiː kuma makìyàːyaː ?//
-# text_en =  Well how do you do with... animals and cattle drivers?
+# text_en = Well how do you do with... animals and cattle drivers?
 1	tòː	tòː	INTJ	_	_	2	discourse	_	AlignBegin=565151|AlignEnd=565353|Gloss=well
 2	yàː	yàyàː	ADV	_	PronType=Int	0	root	_	AlignBegin=565353|AlignEnd=565555|Gloss=how
 3	kukèː	_	AUX	kèː/kà	Aspect=ProgBkg|Number=Plur|Person=2	2	advcl:cleft	_	AlignBegin=565555|AlignEnd=565757|Background=Yes|Gloss=2Plur.Prog.Bkg
@@ -4433,7 +4433,7 @@
 # sent_timecode = 567828, 572265
 # phonetic_text = kaːːː &// kasànceː -wàː -n / noːmaː -n raːniː / akàn sàːmaː / ɗan fulàːniː / dà dabbàː -oCi //
 # text = ka~ || kasàncêːwan noːman raːniː < akàn sàːmaː Ɗan Fulàːniː dà dabboːbiː //
-# text_en =  Th... The fate of... dry season farming, you come across a Fulani with cattle.
+# text_en = Th... The fate of... dry season farming, you come across a Fulani with cattle.
 1	ka~	X	X	_	_	3	reparandum	_	AlignBegin=567828|AlignEnd=568105|Gloss=HESIT
 2	||	||	PUNCT	_	_	1	punct	_	AlignBegin=568105|AlignEnd=568382|Gloss=PUNCT
 3	kasàncêːwan	kasant-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	8	dislocated	_	AlignBegin=568382|AlignEnd=568451|Gloss=become.Vnoun.Cons
@@ -4454,7 +4454,7 @@
 # sent_timecode = 567584, 568111
 # phonetic_text = eː //
 # text = eː //
-# text_en =  Yes.
+# text_en = Yes.
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=567584|AlignEnd=567848|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=567848|AlignEnd=568111|Gloss=PUNCT
 
@@ -4464,7 +4464,7 @@
 # sent_timecode = 570426, 571691
 # phonetic_text = akàn saːmù matsalaː irìː -ǹ na wânnan //
 # text = akàn sàːmi matsalaː irìn na wânnan //
-# text_en =  We usually get that kind of problem.
+# text_en = We usually get that kind of problem.
 1	akàn	_	AUX	kàn	Aspect=Hab|Person=4	2	aux	_	AlignBegin=570426|AlignEnd=570607|Gloss=4.Hab
 2	sàːmi	saːm-	VERB	_	_	0	root	_	AlignBegin=570607|AlignEnd=570788|Gloss=get
 3	matsalaː	matsalaː	NOUN	_	_	2	obl	_	AlignBegin=570788|AlignEnd=570969|Gloss=problem
@@ -4479,7 +4479,7 @@
 # sent_timecode = 572377, 573798
 # phonetic_text = yàyàː kukàn yi dà suː / suː kuma bangarèː -n -sù //
 # text = yàyàː kukàn yi dà suː |a suː kuma bangarèn =sù ?//
-# text_en =  How do you deal with them and their like?
+# text_en = How do you deal with them and their like?
 1	yàyàː	yàyàː	ADV	_	PronType=Int	0	root	_	AlignBegin=572377|AlignEnd=572519|Gloss=how
 2	kukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=2	3	aux	_	AlignBegin=572519|AlignEnd=572661|Gloss=2Plur.Hab
 3	yi	yi	VERB	_	_	1	advcl:cleft	_	AlignBegin=572661|AlignEnd=572803|Gloss=do
@@ -4498,7 +4498,7 @@
 # sent_timecode = 573180, 578383
 # phonetic_text = tòː à wani loːkàci: dai / mukàn saːmù -i matsalaː / àkân na / àːːː / waɗànnan / dabbàː -oCi //
 # text = tòː à wani loːkàci: dai < mukàn sàːmi matsalaː àkân na àː waɗànnan dabboːbiː //
-# text_en =  Well sometimes indeed we have problems with er.. er.. those.. cattle.
+# text_en = Well sometimes indeed we have problems with er.. er.. those.. cattle.
 1	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=573180|AlignEnd=573316|Gloss=well
 2	à	à	ADP	_	_	4	case	_	AlignBegin=573316|AlignEnd=573461|Gloss=at
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	AlignBegin=573461|AlignEnd=573606|Gloss=some.Masc
@@ -4521,7 +4521,7 @@
 # sent_timecode = 578788, 581782
 # phonetic_text = dabbàː -oCi / sukàn zoː wani zubìː in mutà / shaːːː / dà kèː &//
 # text = dabboːbiː < sukàn zoː wani zubìː in mutàː~ || shaː~ dà kèː &//
-# text_en =  Cattle come sometimes when peo.. cow.. who...
+# text_en = Cattle come sometimes when peo.. cow.. who...
 1	dabboːbiː	dabbàː	NOUN	_	Number=Plur	4	dislocated	_	AlignBegin=578788|AlignEnd=578930|Gloss=domestic_animals.Plur
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=579071|AlignEnd=579354|Gloss=PUNCT
 3	sukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=3	4	aux	_	AlignBegin=579354|AlignEnd=579590|Gloss=3Plur.Hab|Scrap=Yes
@@ -4542,7 +4542,7 @@
 # sent_timecode = 581782, 583802
 # phonetic_text = kaː sanìː màːsu kiːwòː -ǹ / bàː sun tshikàː kùlaː ba nèː //
 # text = kaː sanìː màːsu kiːwòn < bàː sun cikà kùlaː ba nèː //
-# text_en =  You know, cattle drivers they are not really careful.
+# text_en = You know, cattle drivers they are not really careful.
 1	kaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=2	2	aux	_	AlignBegin=581782|AlignEnd=581941|Gloss=2Masc.Perf
 2	sanìː	sanìː	VERB	_	_	8	discourse	_	AlignBegin=581941|AlignEnd=582100|Gloss=know
 3	màːsu	màːsu	PART	_	Number=Plur	8	dislocated	_	AlignBegin=582100|AlignEnd=582259|Gloss=holder_of.Plur
@@ -4562,7 +4562,7 @@
 # sent_timecode = 584150, 586143
 # phonetic_text = sunàː baːya / zaːsù tuːroː su gàba //
 # text = sunàː baːya |c zaːsù tuːroː su gàba //
-# text_en =  They are behind they drive them foreward.
+# text_en = They are behind they drive them foreward.
 1	sunàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=2	0	root	_	AlignBegin=584150|AlignEnd=584386|Gloss=2Plur.Prog
 2	baːya	baːya	ADV	_	_	1	obl:arg	_	AlignBegin=584386|AlignEnd=584622|Gloss=behind
 3	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=584622|AlignEnd=584859|Gloss=PUNCT
@@ -4578,7 +4578,7 @@
 # sent_timecode = 586530, 592260
 # phonetic_text = tòː dan niː / ìdan zân iyàː tunàː -wàː maː / àkwai sa'àː -n dà sukà taɓàː zuwàː nân mukà yi ɗan wani ɗan rìkiciː dà suː sukà / àː / cînyeː manà tùmaːtìr̃ //
 # text = tòː dan niː < ìdan zân iyà tunàːwaː maː < àkwai sa'àn dà sukà taɓà zuwàː nân mukà yi ɗan wani ɗan rìkiciː dà suː sukà àː cînyeː manà tùmaːtìr̃ //
-# text_en =  Because myself if I remember well, once they came here and we had some trouble with them they.. er.. ate our tomatoes.
+# text_en = Because myself if I remember well, once they came here and we had some trouble with them they.. er.. ate our tomatoes.
 1	tòː	tòː	INTJ	_	_	11	discourse	_	AlignBegin=586530|AlignEnd=586690|Gloss=well
 2	dan	don	SCONJ	_	_	11	discourse	_	AlignBegin=586690|AlignEnd=586850|Gloss=because
 3	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	dislocated	_	AlignBegin=586850|AlignEnd=587010|Gloss=1Sing.Nom
@@ -4617,7 +4617,7 @@
 # sent_timecode = 592606, 595777
 # phonetic_text = dà mukà saːmù rìkiciː / sai mukà ɗan ɗaukàː / mukà jeː mukà kai mà sarkiː -n -sù //
 # text = dà mukà sàːmi rìkiciː < sai mukà ɗan ɗaukàː |c mukà jeː mukà kai mà sarkin =sù //
-# text_en =  When the trouble started, then we took we went and took (the complaint) to their chief.
+# text_en = When the trouble started, then we took we went and took (the complaint) to their chief.
 1	dà	dà	ADP	_	_	3	mark	_	AlignBegin=592606|AlignEnd=592807|Gloss=as
 2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=592807|AlignEnd=593008|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	sàːmi	saːm-	VERB	_	_	9	advcl	_	AlignBegin=593008|AlignEnd=593209|Gloss=get
@@ -4643,7 +4643,7 @@
 # sent_timecode = 595777, 598556
 # phonetic_text = tundà kaː sanìː suː wânnan sunàː dà / sarkiː naːsù //
 # text = tundà kaː san suː wânnan sunàː dà sarkiː naːsù //
-# text_en =  Because you know those people they have.. their own chief.
+# text_en = Because you know those people they have.. their own chief.
 1	tundà	tundà	SCONJ	_	_	6	discourse	_	AlignBegin=595777|AlignEnd=595996|Gloss=since
 2	kaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=2	3	aux	_	AlignBegin=595996|AlignEnd=596215|Gloss=2Masc.Perf
 3	san	sanìː	VERB	_	_	6	discourse	_	AlignBegin=596215|AlignEnd=596434|Gloss=know
@@ -4661,7 +4661,7 @@
 # sent_timecode = 598898, 599188
 # phonetic_text = eː //
 # text = eː //
-# text_en =  Yes
+# text_en = Yes
 1	eː	eː	INTJ	_	_	0	root	_	AlignBegin=598898|AlignEnd=599043|Gloss=yes
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=599043|AlignEnd=599188|Gloss=PUNCT
 
@@ -4671,7 +4671,7 @@
 # sent_timecode = 599188, 600821
 # phonetic_text = anàː cêː / munàː cêː masà sarkiː -n fulàːniː //
 # text = anàː cêː || munàː cêː masà Sarkin Fulàːniː //
-# text_en =  he is called we call him the Chief of the Fulani.
+# text_en = he is called we call him the Chief of the Fulani.
 1	anàː	_	AUX	nàː	Aspect=Prog|Person=4	2	aux	_	AlignBegin=599188|AlignEnd=599276|Gloss=4.Prog
 2	cêː	cêː	VERB	_	_	5	reparandum	_	AlignBegin=599276|AlignEnd=599364|Gloss=say
 3	||	||	PUNCT	_	_	2	punct	_	AlignBegin=599364|AlignEnd=599451|Gloss=PUNCT

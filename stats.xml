@@ -22,14 +22,14 @@
     <tag name="CCONJ">179</tag><!-- dà, koː, àmmaː, kuma, koːkòː, bàllàntànaː, but, sai -->
     <tag name="DET">328</tag><!-- wânnan, nan, wani, dukà, su, ɗin, wannàn, nàn, wata, wasu -->
     <tag name="INTJ">879</tag><!-- tòː, eː, ƙwar̃ai, ai, mː, na'àm, kâi, m̀ː, àː, tôː -->
-    <tag name="NOUN">1812</tag><!-- àbù, gidaː, loːkàciː, ruwaː, gàriː, mài, mùtûm, suːnaː, aikìː, irìː -->
+    <tag name="NOUN">1813</tag><!-- àbù, gidaː, loːkàciː, ruwaː, gàriː, mài, mùtûm, suːnaː, aikìː, irìː -->
     <tag name="NUM">94</tag><!-- biyu, goːmà, ɗaya, bakwài, bìyar̃, dubuː, gùdaː, àr̃bàʼin, shâː, àshìr̃in -->
     <tag name="PART">1176</tag><!-- neː/naː, ba, na~ta, kuma, maː, dai, gàː, kèːnan/aC, bàː, àkwai -->
     <tag name="PRON">1067</tag><!-- shiː, shi, ita, wandà, =shì, ta, wânnan, suː, mishì, =sù -->
     <tag name="PROPN">301</tag><!-- Allàː, Fulàːniː, Basaːwaː, Basaːwa, Bàːsa, Ùngwan, Dattì, Mângajàː, Gwànjoː, Maːlàmiː -->
     <tag name="PUNCT">2820</tag><!-- //, <, ?//, !//, |c, ||, &//, >, //+, //= -->
     <tag name="SCONJ">428</tag><!-- dà, in, wai, ìdan, tundà, don, cêːwaː, kàman, dòːmin, dàː -->
-    <tag name="VERB">2044</tag><!-- yi, cêː, jeː, ganiː, ci, zoː, saːm-, baː, noːm-, sanìː -->
+    <tag name="VERB">2043</tag><!-- yi, cêː, jeː, ganiː, ci, zoː, saːm-, baː, noːm-, sanìː -->
     <tag name="X">93</tag><!-- x, lìllaːhì, àlhamdù, galalan, gar̃as, sùkûːl, tìr̃kaː, ƙut, Allàː, Riːmiː -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -60,7 +60,7 @@
     <feat name="ExtPos" value="SCONJ" upos="ADP,SCONJ">5</feat><!-- in, koː, koːdà, kàman -->
     <feat name="ExtPos" value="VERB" upos="VERB">3</feat><!-- ci -->
     <feat name="Foreign" value="Yes" upos="ADV,CCONJ,INTJ,NOUN,PART,PROPN,VERB,X">72</feat><!-- OK, lìllaːhì, àlhamdù, poison, police, kilaːs, sòː, checking, sùkûːl, Allàː -->
-    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,PART,PRON,VERB">400</feat><!-- ta, ita, tà, =tà, taː, tanàː, kin, wata, takàn, zaːtà -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,PART,PRON">400</feat><!-- ta, ita, tà, =tà, taː, tanàː, kin, wata, takàn, zaːtà -->
     <feat name="Gender" value="Masc" upos="AUX,DET,NOUN,PRON">1350</feat><!-- ya, shiː, yaː, kà, kaː, shi, wani, yà, =shì, ka -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PART,PRON,PROPN,VERB">836</feat><!-- sukà, mù, mukà, munàː, su, =sù, suː, sun, sunàː, sù -->
     <feat name="Number" value="Sing" upos="AUX,PRON">279</feat><!-- naː, zân, zaːkà, inàː, niː, mîn, ìn, na, =naː, zaːʼà -->
@@ -93,17 +93,17 @@
     <dep name="advmod">908</dep>
     <dep name="amod">27</dep>
     <dep name="appos">103</dep>
-    <dep name="aux">1770</dep>
-    <dep name="case">519</dep>
+    <dep name="aux">1771</dep>
+    <dep name="case">520</dep>
     <dep name="cc">114</dep>
     <dep name="cc:preconj">3</dep>
-    <dep name="ccomp">223</dep>
+    <dep name="ccomp">222</dep>
     <dep name="compound">85</dep>
     <dep name="compound:svc">3</dep>
     <dep name="conj">399</dep>
     <dep name="cop">63</dep>
     <dep name="csubj">2</dep>
-    <dep name="dep">96</dep>
+    <dep name="dep">99</dep>
     <dep name="det">295</dep>
     <dep name="discourse">1100</dep>
     <dep name="dislocated">373</dep>
@@ -112,13 +112,13 @@
     <dep name="flat:foreign">16</dep>
     <dep name="flat:name">46</dep>
     <dep name="iobj">159</dep>
-    <dep name="mark">328</dep>
-    <dep name="nmod">497</dep>
-    <dep name="nsubj">347</dep>
+    <dep name="mark">327</dep>
+    <dep name="nmod">498</dep>
+    <dep name="nsubj">346</dep>
     <dep name="nummod">44</dep>
-    <dep name="obj">702</dep>
-    <dep name="obl">197</dep>
-    <dep name="obl:arg">268</dep>
+    <dep name="obj">701</dep>
+    <dep name="obl">194</dep>
+    <dep name="obl:arg">269</dep>
     <dep name="parataxis">45</dep>
     <dep name="parataxis:parenth">4</dep>
     <dep name="punct">2820</dep>

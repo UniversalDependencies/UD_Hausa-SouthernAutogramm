@@ -27,6 +27,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: spoken
 Lemmas: manual native
 UPOS: manual native

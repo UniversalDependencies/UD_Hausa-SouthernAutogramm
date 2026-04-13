@@ -1,0 +1,15 @@
+{
+  "ha_southernautogramm-ud-test": [
+    {
+      "document_ids": [
+        "HAUZ_BC_CONV_01",
+        "HAUZ_BC_CONV_02",
+        "HAUZ_BC_CONV_03",
+        "HAUZ_BC_CONV_04",
+        "HAUZ_BC_NARR_01",
+        "HAUZ_BC_NARR_02",
+        "HAUZ_BC_NARR_03"
+      ]
+    }
+  ]
+}

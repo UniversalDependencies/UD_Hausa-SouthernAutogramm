@@ -210,7 +210,7 @@
 3	jeː	jeː	VERB	_	_	0	root	_	AlignBegin=28595|AlignEnd=28806|Gloss=go
 4	gidaː	gidaː	NOUN	_	Definite=Ind	3	obl	_	AlignBegin=28806|AlignEnd=29017|Gloss=home
 5	à	à	ADP	_	_	6	case	_	AlignBegin=29017|AlignEnd=29228|Gloss=at
-6	gàrinsù	gàriː	NOUN	_	Definite=Cons	3	obl	_	AlignBegin=29228|AlignEnd=29298|CaseAf=Gen|Gloss=town.Cons-3PlurGen|MSeg=gàrin-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|wordform=gàriː
+6	gàrinsù	gàriː	NOUN	_	Definite=Cons	3	obl:mod	_	AlignBegin=29228|AlignEnd=29298|CaseAf=Gen|Gloss=town.Cons-3PlurGen|MSeg=gàrin-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|wordform=gàriː
 7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=29439|AlignEnd=29652|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_021
@@ -468,7 +468,7 @@
 2	à	yà	AUX	_	Mood=Sub|Person=4	3	aux	_	AlignBegin=61359|AlignEnd=61608|Gloss=4.Sub
 3	ci	ci	VERB	_	_	0	root	_	AlignBegin=61608|AlignEnd=61857|Gloss=eat
 4	daːɗiː	daːɗiː	NOUN	_	Definite=Ind	3	obj	_	AlignBegin=61857|AlignEnd=62106|Gloss=Dadi
-5	laːfiyàː	laːfiyàː	NOUN	_	Definite=Ind	3	obl	_	AlignBegin=62106|AlignEnd=62355|Gloss=happiness
+5	laːfiyàː	laːfiyàː	NOUN	_	Definite=Ind	3	obl:mod	_	AlignBegin=62106|AlignEnd=62355|Gloss=happiness
 6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=62355|AlignEnd=62603|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_050
@@ -1327,7 +1327,7 @@
 1	sai	sai	ADV	_	_	3	advmod	_	AlignBegin=159900|AlignEnd=160000|Gloss=then
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	aux	_	AlignBegin=160000|AlignEnd=160100|Gloss=3Masc.Perf.Rel|Relative=Yes
 3	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=160100|AlignEnd=160200|Gloss=say
-4	Ƙoːƙì	Ƙoːƙì	PROPN	_	_	7	obl	_	AlignBegin=160298|AlignEnd=160527|Gloss=Manta
+4	Ƙoːƙì	Ƙoːƙì	PROPN	_	_	7	obl:mod	_	AlignBegin=160298|AlignEnd=160527|Gloss=Manta
 5	àlhakinkì	àlhakiː	NOUN	_	Definite=Cons	7	nsubj	_	AlignBegin=161642|AlignEnd=161742|CaseAf=Gen|GenderAf=Fem|Gloss=sin.Cons.-2FemGen|MSeg=àlhakin-kì|PersonAf=2|Poss=Yes|wordform=àlhakiː
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	aux	_	AlignBegin=161943|AlignEnd=162244|Gloss=3Masc.Perf.Rel|Relative=Yes
 7	kaːmàː	kaːm-	VERB	_	_	3	ccomp	_	AlignBegin=162244|AlignEnd=162545|Gloss=catch

@@ -42,7 +42,7 @@
 4	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=10069|AlignEnd=10313|Gloss=come
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	aux	_	AlignBegin=10313|AlignEnd=10557|Gloss=3Masc.Perf.Rel|Relative=Yes
 6	dòːkeː	doːk-	VERB	_	_	4	parataxis	_	AlignBegin=10557|AlignEnd=10679|Gloss=beat
-7	mù	mù	PRON	_	Number=Plur|Person=1|PronType=Prs	6	obl	_	AlignBegin=10801|AlignEnd=11045|Gloss=1Plur
+7	mù	mù	PRON	_	Number=Plur|Person=1|PronType=Prs	6	obl:mod	_	AlignBegin=10801|AlignEnd=11045|Gloss=1Plur
 8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=11045|AlignEnd=11288|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_03_07-08

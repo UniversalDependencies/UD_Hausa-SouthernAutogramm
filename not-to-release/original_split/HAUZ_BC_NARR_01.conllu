@@ -582,7 +582,7 @@
 # text_en = The name of their river is Man.. Mangaja.
 1	suːnan	suːnaː	NOUN	_	Definite=Cons	4	nsubj	_	AlignBegin=73986|AlignEnd=74128|Gloss=name.Cons|wordform=suːnaː
 2	ràːfîn	ràːfiː	NOUN	_	Definite=Def	1	nmod	_	AlignBegin=74270|AlignEnd=74412|Gloss=river.Def
-3	naːsù	naːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nmod	_	AlignBegin=74554|AlignEnd=74838|Gloss=3PlurGen
+3	naːsù	naːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nmod:poss	_	AlignBegin=74554|AlignEnd=74838|Gloss=3PlurGen
 4	Mân~	Mângajàː	PROPN	_	_	5	reparandum	_	AlignBegin=74838|AlignEnd=75122|Gloss=Mangaja
 5	Mângajàː	Mângajàː	PROPN	_	_	0	root	_	AlignBegin=75406|AlignEnd=75548|Gloss=Mangaja
 6	//	//	PUNCT	_	_	5	punct	_	AlignBegin=75548|AlignEnd=75690|Gloss=PUNCT
@@ -687,7 +687,7 @@
 1	shiːkèːnan	shiːkèːnaː	INTJ	_	_	3	discourse	_	AlignBegin=88535|AlignEnd=88720|Gloss=OK|wordform=shiː
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	aux	_	AlignBegin=89275|AlignEnd=89488|Gloss=3Masc.Perf.Rel|Relative=Yes
 3	kwântaː	kwant-	VERB	_	_	0	root	_	AlignBegin=89488|AlignEnd=89701|Gloss=lie_down
-4	àbùnshi	àbù	NOUN	_	Definite=Cons|Gender=Masc	3	obl	_	AlignBegin=89701|AlignEnd=89772|CaseAf=Gen|Gloss=thing.Masc.Cons-3MascGen|MSeg=àbùn-shi|NumberAf=Sing|PersonAf=3|Poss=Yes|wordform=àbù
+4	àbùnshi	àbù	NOUN	_	Definite=Cons|Gender=Masc	3	obl:mod	_	AlignBegin=89701|AlignEnd=89772|CaseAf=Gen|Gloss=thing.Masc.Cons-3MascGen|MSeg=àbùn-shi|NumberAf=Sing|PersonAf=3|Poss=Yes|wordform=àbù
 5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=89914|AlignEnd=90126|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_082-082
@@ -870,7 +870,7 @@
 # text = dàgà zuwànshi ya kaːmàː shi //
 # text_en = As he arrived he caught him.
 1	dàgà	dàgà	ADP	_	_	2	case	_	AlignBegin=115485|AlignEnd=115746|Gloss=from
-2	zuwànshi	zoː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3|VerbForm=Vnoun	4	obl	_	AlignBegin=115746|AlignEnd=115833|Gloss=go.Vnoun.Cons.3Masc|wordform=zuwàː
+2	zuwànshi	zoː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3|VerbForm=Vnoun	4	obl:mod	_	AlignBegin=115746|AlignEnd=115833|Gloss=go.Vnoun.Cons.3Masc|wordform=zuwàː
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	aux	_	AlignBegin=116844|AlignEnd=117038|Gloss=3Masc.Perf.Rel|Relative=Yes
 4	kaːmàː	kaːm-	VERB	_	_	0	root	_	AlignBegin=117038|AlignEnd=117232|Gloss=catch
 5	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	obj	_	AlignBegin=117232|AlignEnd=117426|Gloss=3Masc
@@ -1048,7 +1048,7 @@
 # text = dàgà zuwàː ya sàkeː shi nèː //
 # text_en = From there.. From there he let him go.
 1	dàgà	dàgà	ADP	_	_	2	case	_	AlignBegin=133659|AlignEnd=133898|Gloss=from
-2	zuwàː	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	obl	_	AlignBegin=133898|AlignEnd=134137|Gloss=towards
+2	zuwàː	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	obl:mod	_	AlignBegin=133898|AlignEnd=134137|Gloss=towards
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	aux	_	AlignBegin=134375|AlignEnd=134663|Gloss=3Masc.Perf.Rel|Relative=Yes
 4	sàkeː	sak-	VERB	_	_	0	root	_	AlignBegin=134663|AlignEnd=134951|Gloss=let_go
 5	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	obj	_	AlignBegin=134951|AlignEnd=135239|Gloss=3Masc
@@ -1072,7 +1072,7 @@
 8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	aux	_	AlignBegin=136919|AlignEnd=137077|Gloss=3Masc.Perf.Rel|Relative=Yes
 9	faːɗàː	faːɗ-	VERB	_	_	6	parataxis	_	AlignBegin=137077|AlignEnd=137235|Gloss=fall|Overlap=HAUZ_BC_NARR_01_131-131
 10	à	à	ADP	_	_	11	case	_	AlignBegin=137393|AlignEnd=137567|Gloss=at
-11	wânnan	wânnan	PRON	_	Definite=Def|Number=Plur|PronType=Dem	9	obl	_	AlignBegin=137567|AlignEnd=137741|Gloss=Def.Plur
+11	wânnan	wânnan	PRON	_	Definite=Def|Number=Plur|PronType=Dem	9	obl:mod	_	AlignBegin=137567|AlignEnd=137741|Gloss=Def.Plur
 12	//	//	PUNCT	_	_	2	punct	_	AlignBegin=137741|AlignEnd=137915|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_131-131
@@ -1517,7 +1517,7 @@
 9	ka	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	10	aux	_	AlignBegin=188851|AlignEnd=189048|Gloss=2Masc.Perf.Rel|Relative=Yes
 10	ci	ci	VERB	_	_	7	acl:relcl	_	AlignBegin=189048|AlignEnd=189245|Gloss=eat
 11	à	à	ADP	_	_	12	case	_	AlignBegin=189245|AlignEnd=189442|Gloss=at
-12	hanyàː	hanyàː	NOUN	_	Definite=Ind	10	obl	_	AlignBegin=189442|AlignEnd=189639|Gloss=road
+12	hanyàː	hanyàː	NOUN	_	Definite=Ind	10	obl:mod	_	AlignBegin=189442|AlignEnd=189639|Gloss=road
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=189639|AlignEnd=189836|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_179-181
@@ -1531,7 +1531,7 @@
 2	kuma	kuma	PART	_	PartType=Top	8	discourse	_	AlignBegin=189951|AlignEnd=190066|Gloss=also
 3	à	à	ADP	_	ExtPos=ADP	5	case	_	AlignBegin=190181|AlignEnd=190331|Gloss=at|Idiom=Yes
 4	cikin	cikiː	NOUN	_	Definite=Cons|Gender=Masc	3	fixed	_	AlignBegin=190331|AlignEnd=190481|Gloss=inside.Masc.Cons|InIdiom=Yes
-5	ruwân	ruwaː	NOUN	_	Definite=Cons	8	obl	_	AlignBegin=190481|AlignEnd=190556|Gloss=water.Cons
+5	ruwân	ruwaː	NOUN	_	Definite=Cons	8	obl:mod	_	AlignBegin=190481|AlignEnd=190556|Gloss=water.Cons
 6	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	5	det	_	AlignBegin=190631|AlignEnd=190781|Gloss=ProxH
 7	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	8	aux	_	AlignBegin=190929|AlignEnd=191204|Gloss=2Masc.Perf
 8	ci	ci	VERB	_	_	0	root	_	AlignBegin=191204|AlignEnd=191479|Gloss=eat
@@ -2286,7 +2286,7 @@
 # phonetic_text = shiː maː ya mutù //
 # text = shiː maː ya mutù //
 # text_en = He died too.
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	obl	_	AlignBegin=276070|AlignEnd=276251|Gloss=3Masc.Nom
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	obl:mod	_	AlignBegin=276070|AlignEnd=276251|Gloss=3Masc.Nom
 2	maː	maː	PART	_	PartType=Top	1	discourse	_	AlignBegin=276251|AlignEnd=276432|Gloss=even
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	aux	_	AlignBegin=276432|AlignEnd=276613|Gloss=3Masc.Perf.Rel|Relative=Yes
 4	mutù	mutù	VERB	_	_	0	root	_	AlignBegin=276613|AlignEnd=276794|Gloss=die

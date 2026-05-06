@@ -1,51 +1,51 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Hausa-SouthernAutogramm:
-commit 60417eca98d3f78fcac132db1c9cfb9080724636
-Merge: 279db5b 0ad63b5
+commit f4508634cd36ae105e586ddbc3a2b085c2f2e948
+Merge: 0945e23 5c7e7fc
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ha_southernautogramm'
 Language code (from CoNLL-U file name) = 'ha'
 Found the following data files: ha_southernautogramm-ud-test.conllu
-Size: counted 14401 of 14401 words (nodes).
-Size: min(0, log((N/1000)**2)) = 5.33459529723049.
+Size: counted 14398 of 14398 words (nodes).
+Size: min(0, log((N/1000)**2)) = 5.33417861609422.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Found at least 10000 test words.
-Lemmas: '_' is the most frequent lemma.
+Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 6747 out of 14401 total words have one or more features.
+Features: 6859 out of 14398 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
-Universal relations: 31 out of 37 found in the corpus.
+Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ha --max-err=10 UD_Hausa-SouthernAutogramm/ha_southernautogramm-ud-test.conllu
-[Line 35 Sent HAUZ_BC_CONV_01_SP2_001-001]: [L3 Warning pron-det-without-prontype] The word 'wata' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 226 Sent HAUZ_BC_CONV_01_SP2_007-008]: [L3 Warning pron-det-without-prontype] The word 'mèː' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 430 Sent HAUZ_BC_CONV_01_SP1_009-009]: [L3 Warning pron-det-without-prontype] The word 'wasu' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 671 Sent HAUZ_BC_CONV_01_SP2_028-029]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 670 Sent HAUZ_BC_CONV_01_SP2_028-029]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 878 Sent HAUZ_BC_CONV_01_SP1_014-014]: [L3 Warning pron-det-without-prontype] The word 'su' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 886 Sent HAUZ_BC_CONV_01_SP1_014-014]: [L3 Warning pron-det-without-prontype] The word 'mèːneː' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 1006 Sent HAUZ_BC_CONV_01_SP1_015-015]: [L3 Warning pron-det-without-prontype] The word 'su' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1028 Sent HAUZ_BC_CONV_01_SP2_044-044_split2]: [L3 Warning pron-det-without-prontype] The word 'su' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1724 Sent HAUZ_BC_CONV_01_SP2_076-079]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-...suppressing further errors regarding Warning
-Warnings: 139
+[Line 34 Sent HAUZ_BC_CONV_01_SP2_001-001]: [L3 WARNING pron-det-without-prontype] The word 'wata' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 225 Sent HAUZ_BC_CONV_01_SP2_007-008]: [L3 WARNING pron-det-without-prontype] The word 'mèː' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 429 Sent HAUZ_BC_CONV_01_SP1_009-009]: [L3 WARNING pron-det-without-prontype] The word 'wasu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 670 Sent HAUZ_BC_CONV_01_SP2_028-029]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 669 Sent HAUZ_BC_CONV_01_SP2_028-029]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 877 Sent HAUZ_BC_CONV_01_SP1_014-014]: [L3 WARNING pron-det-without-prontype] The word 'su' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 885 Sent HAUZ_BC_CONV_01_SP1_014-014]: [L3 WARNING pron-det-without-prontype] The word 'mèːneː' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1005 Sent HAUZ_BC_CONV_01_SP1_015-015]: [L3 WARNING pron-det-without-prontype] The word 'su' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1027 Sent HAUZ_BC_CONV_01_SP2_044-044_split2]: [L3 WARNING pron-det-without-prontype] The word 'su' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1723 Sent HAUZ_BC_CONV_01_SP2_076-079]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 102
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
-(weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
-(weight=0.37037037037037) * (score{size}=0.386130883462373) = 0.143011438319398
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.386100723076008) = 0.143000267805929
 (weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
 (weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
-(weight=0.111111111111111) * (score{udeprels}=0.837837837837838) = 0.0930930930930931
-(TOTAL score=0.428704386169208) * (availability=1) * (validity=1) = 0.428704386169208
-STARS = 2
-UD_Hausa-SouthernAutogramm	0.428704386169208	2
+(weight=0.111111111111111) * (score{udeprels}=0.864864864864865) = 0.0960960960960961
+(TOTAL score=0.541696218658742) * (availability=1) * (validity=1) = 0.541696218658742
+STARS = 2.5
+UD_Hausa-SouthernAutogramm	0.541696218658742	2.5

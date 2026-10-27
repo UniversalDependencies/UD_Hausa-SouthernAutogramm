@@ -1,6 +1,6 @@
 # Summary
 
-This treebank contains data of Southern Autogramm, for the Zaria dialect of Nigeria (Southern Hausa).
+This treebank contains data of Southern Hausa, for the Zaria dialect of Nigeria (Southern Hausa).
 
 # Introduction
 
